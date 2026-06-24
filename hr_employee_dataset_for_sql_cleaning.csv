@@ -1,0 +1,1004 @@
+EmployeeID,FirstName,LastName,Email,Department,JobTitle,City,Age,MonthlySalary,EmploymentStatus,HireDate
+1001,Thabo, mokoena , john.smith@gmail.com ,IT,Coordinator,Cape Town,55,15000,On Leave,02-04-19
+1002,Thabo,Jones,,Finance,Analyst,Johannesburg,25,22000,On Leave,12-02-24
+1003,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Pretoria,25,48000,On Leave,01-10-24
+1004,SARAH,Dlamini,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Durban,29,22000,Active,13-02-21
+1005,Thabo,Dlamini,,Finance,Specialist,Durban,41,35000,Active,10-10-21
+1006,John,Dlamini,,Finance,Manager,Durban,-1,62000,Resigned,25-02-23
+1007,Nomsa, mokoena ,thabo.dlamini@gmail.com,Finance,Coordinator,Durban,22,22000,Active,22-06-24
+1008,Sipho,Smith, john.smith@gmail.com ,IT,Specialist,Durban,25,35000,On Leave,06-04-22
+1009,John, mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Cape Town,34,48000,Resigned,20-10-18
+1010,Nomsa, mokoena , john.smith@gmail.com ,Finance,Coordinator,Johannesburg,-1,35000,Resigned,31-03-24
+1011,Thabo,Mokoena,,Customer Support,Specialist,Cape Town,55,48000,Resigned,01-01-21
+1012,Nomsa,Khumalo,Nomsa.Khumalo@yahoo.com,IT,Manager,Bloemfontein,29,62000,Resigned,23-02-23
+1013,Lerato,Khumalo,Nomsa.Khumalo@yahoo.com,IT,Manager,Pretoria,22,15000,Active,18-07-24
+1014, john ,Mokoena,,Operations,Analyst,Pretoria,34,62000,Resigned,19-09-19
+1015,Sipho,Jones,thabo.dlamini@gmail.com,Customer Support,Analyst,Bloemfontein,-1,35000,On Leave,08-12-23
+1016,Thabo,Khumalo,,IT,Administrator,Johannesburg,55,35000,On Leave,25-10-21
+1017,John,Dlamini, john.smith@gmail.com ,Customer Support,Manager,Bloemfontein,25,22000,Resigned,02-01-20
+1018,John,Jones,thabo.dlamini@gmail.com,Operations,Specialist,Pretoria,22,15000,Resigned,24-10-19
+1019,Nomsa,Dlamini,Nomsa.Khumalo@yahoo.com,Operations,Analyst,Johannesburg,55,48000,Active,13-06-21
+1020,SARAH,Mokoena,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Bloemfontein,25,35000,On Leave,22-12-23
+1021,Lerato,Mokoena,,Customer Support,Coordinator,Durban,34,35000,Resigned,20-10-24
+1022,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,IT,Analyst,Durban,22,62000,On Leave,21-10-23
+1023,John,Mokoena,thabo.dlamini@gmail.com,Finance,Analyst,Cape Town,22,15000,Resigned,31-07-20
+1024,John,Mokoena, john.smith@gmail.com ,Customer Support,Administrator,Cape Town,41,22000,On Leave,18-10-18
+1025,John,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Cape Town,22,15000,On Leave,27-05-24
+1026,Sipho,Smith,,Marketing,Analyst,Johannesburg,22,48000,On Leave,01-11-22
+1027,SARAH,Dlamini,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Bloemfontein,34,22000,Resigned,21-10-21
+1028,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Bloemfontein,22,15000,On Leave,22-01-20
+1029,SARAH,Dlamini,thabo.dlamini@gmail.com,IT,Coordinator,Pretoria,34,48000,Active,24-01-24
+1030,Thabo,Mokoena,,Finance,Administrator,Durban,-1,48000,Resigned,01-07-22
+1031, john , mokoena ,,Customer Support,Administrator,Cape Town,25,35000,Active,29-09-22
+1032,John, mokoena ,,Finance,Specialist,Johannesburg,22,62000,Resigned,28-08-18
+1033,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Finance,Manager,Johannesburg,-1,22000,Active,22-08-23
+1034,Thabo, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Bloemfontein,25,62000,On Leave,03-09-24
+1035,John,Dlamini,,Customer Support,Manager,Bloemfontein,41,35000,Resigned,12-06-18
+1036, john , mokoena , john.smith@gmail.com ,IT,Specialist,Pretoria,25,35000,Resigned,16-04-20
+1037,SARAH,Dlamini,thabo.dlamini@gmail.com,Marketing,Manager,Bloemfontein,22,15000,On Leave,19-07-21
+1038,John,Khumalo,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,29,35000,Active,23-05-20
+1039,SARAH,Jones, john.smith@gmail.com ,Operations,Manager,Johannesburg,55,62000,Resigned,30-11-22
+1040,Nomsa,Khumalo,thabo.dlamini@gmail.com,Finance,Manager,Cape Town,29,35000,On Leave,01-03-19
+1041, john ,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Bloemfontein,34,35000,Active,12-05-20
+1042, john ,Smith, john.smith@gmail.com ,Finance,Analyst,Durban,-1,22000,On Leave,14-01-19
+1043,Nomsa, mokoena ,,Operations,Administrator,Bloemfontein,22,15000,Active,08-12-20
+1044,John,Dlamini, john.smith@gmail.com ,Operations,Manager,Cape Town,34,22000,Active,03-09-19
+1045,Sipho,Dlamini, john.smith@gmail.com ,IT,Coordinator,Johannesburg,29,62000,Resigned,16-06-21
+1046,Nomsa,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Cape Town,55,35000,Resigned,26-09-19
+1047,Sipho,Mokoena,thabo.dlamini@gmail.com,Marketing,Analyst,Pretoria,25,22000,Resigned,13-10-20
+1048,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Pretoria,29,35000,Active,03-12-21
+1049,Sipho, mokoena ,,Marketing,Manager,Durban,22,15000,Resigned,17-02-21
+1050,John,Khumalo,thabo.dlamini@gmail.com,Finance,Manager,Pretoria,29,35000,Resigned,02-01-20
+1051,John,Dlamini,,Operations,Coordinator,Durban,22,48000,Active,19-10-24
+1052,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Administrator,Johannesburg,55,35000,On Leave,31-10-23
+1053, john ,Dlamini, john.smith@gmail.com ,Operations,Specialist,Pretoria,29,48000,On Leave,09-07-21
+1054,John,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Cape Town,41,62000,Resigned,26-04-21
+1055,John,Dlamini, john.smith@gmail.com ,Human Resources,Coordinator,Pretoria,-1,62000,On Leave,22-07-22
+1056,Lerato,Smith,,Customer Support,Coordinator,Bloemfontein,34,22000,On Leave,12-08-21
+1057,Sipho,Jones,,Human Resources,Analyst,Cape Town,55,35000,Active,14-12-18
+1058,Nomsa,Dlamini,thabo.dlamini@gmail.com,IT,Administrator,Bloemfontein,-1,15000,Resigned,26-03-20
+1059, john ,Jones,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Pretoria,34,22000,Active,25-08-22
+1060,SARAH,Dlamini,,IT,Coordinator,Bloemfontein,34,15000,On Leave,23-01-18
+1061,SARAH,Dlamini,,IT,Administrator,Bloemfontein,41,62000,Resigned,17-10-20
+1062,John, mokoena ,,Marketing,Manager,Pretoria,25,48000,Resigned,18-12-22
+1063,SARAH,Mokoena, john.smith@gmail.com ,Operations,Administrator,Cape Town,29,48000,Active,27-11-20
+1064,Nomsa,Khumalo, john.smith@gmail.com ,Human Resources,Manager,Johannesburg,25,22000,Active,16-03-21
+1065, john ,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Pretoria,29,62000,Resigned,18-04-22
+1066,Thabo,Mokoena,,Marketing,Manager,Johannesburg,-1,62000,Resigned,31-08-22
+1067,Thabo,Khumalo, john.smith@gmail.com ,Marketing,Administrator,Bloemfontein,55,62000,On Leave,08-05-23
+1068,Lerato,Mokoena, john.smith@gmail.com ,Marketing,Administrator,Johannesburg,34,35000,On Leave,22-06-20
+1069, john ,Mokoena,,IT,Manager,Bloemfontein,22,48000,On Leave,15-07-22
+1070, john ,Dlamini,thabo.dlamini@gmail.com,Customer Support,Administrator,Cape Town,-1,48000,Active,30-04-24
+1071,Sipho,Smith, john.smith@gmail.com ,IT,Administrator,Durban,29,48000,Resigned,25-07-18
+1072,Sipho,Dlamini,,Finance,Manager,Johannesburg,29,22000,On Leave,23-09-22
+1073,SARAH, mokoena ,thabo.dlamini@gmail.com,Finance,Coordinator,Cape Town,-1,15000,On Leave,09-10-18
+1074,Nomsa,Mokoena,,Customer Support,Analyst,Bloemfontein,25,48000,On Leave,17-09-19
+1075,SARAH,Khumalo,Nomsa.Khumalo@yahoo.com,Operations,Manager,Johannesburg,-1,22000,Resigned,15-11-20
+1076,John,Dlamini, john.smith@gmail.com ,Operations,Administrator,Pretoria,55,22000,Active,19-03-19
+1077, john , mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Bloemfontein,-1,15000,On Leave,22-08-24
+1078,Sipho,Jones,,Customer Support,Specialist,Johannesburg,41,35000,Active,18-06-18
+1079,SARAH,Smith,thabo.dlamini@gmail.com,Marketing,Specialist,Pretoria,55,22000,Resigned,17-09-22
+1080, john ,Jones, john.smith@gmail.com ,Operations,Manager,Pretoria,34,48000,On Leave,23-12-19
+1081,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Pretoria,25,48000,On Leave,23-08-24
+1082, john ,Smith, john.smith@gmail.com ,Finance,Administrator,Durban,25,48000,Active,04-11-24
+1083,SARAH,Khumalo, john.smith@gmail.com ,Human Resources,Manager,Durban,41,15000,On Leave,24-12-21
+1084,Thabo,Mokoena,,Marketing,Manager,Cape Town,55,48000,On Leave,22-02-20
+1085,Lerato,Dlamini,thabo.dlamini@gmail.com,Human Resources,Coordinator,Pretoria,55,22000,Resigned,04-07-23
+1086,Sipho,Smith,,Operations,Specialist,Pretoria,55,62000,Resigned,10-07-24
+1087, john ,Smith, john.smith@gmail.com ,Human Resources,Specialist,Cape Town,22,22000,Resigned,12-12-21
+1088, john ,Jones,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Pretoria,29,62000,On Leave,05-05-19
+1089,Sipho,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Coordinator,Durban,25,35000,Active,10-09-24
+1090,Nomsa,Khumalo,thabo.dlamini@gmail.com,Finance,Manager,Durban,55,22000,On Leave,28-12-23
+1091,Thabo,Dlamini,,Human Resources,Administrator,Pretoria,34,35000,Active,04-07-23
+1092,Sipho,Smith,thabo.dlamini@gmail.com,Finance,Administrator,Pretoria,22,62000,On Leave,30-07-18
+1093,Nomsa,Mokoena,,Human Resources,Analyst,Cape Town,22,62000,Resigned,08-08-18
+1094,John,Jones,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Pretoria,34,35000,On Leave,19-10-24
+1095,Sipho,Jones,,Finance,Manager,Johannesburg,-1,22000,On Leave,23-10-22
+1096,Sipho, mokoena ,thabo.dlamini@gmail.com,IT,Coordinator,Cape Town,41,15000,Active,14-05-20
+1097,Lerato,Smith,,Marketing,Specialist,Johannesburg,25,35000,On Leave,11-01-18
+1098, john ,Smith,thabo.dlamini@gmail.com,Customer Support,Coordinator,Durban,-1,62000,On Leave,04-03-21
+1099,Lerato,Dlamini,,IT,Coordinator,Durban,-1,22000,Active,21-03-20
+1100,Nomsa,Khumalo,,Customer Support,Manager,Durban,34,15000,Resigned,02-09-18
+1101, john ,Smith, john.smith@gmail.com ,Operations,Manager,Pretoria,34,15000,On Leave,30-05-21
+1102,Lerato, mokoena , john.smith@gmail.com ,Operations,Specialist,Johannesburg,22,22000,On Leave,13-06-18
+1103,John,Dlamini, john.smith@gmail.com ,Operations,Analyst,Cape Town,34,62000,On Leave,14-06-24
+1104,Sipho,Mokoena,,Marketing,Administrator,Johannesburg,34,35000,Resigned,17-12-22
+1105,Sipho, mokoena ,thabo.dlamini@gmail.com,IT,Specialist,Pretoria,55,48000,Resigned,27-09-21
+1106,SARAH,Jones,thabo.dlamini@gmail.com,Marketing,Analyst,Durban,29,35000,Active,29-06-22
+1107,SARAH,Jones,thabo.dlamini@gmail.com,Customer Support,Manager,Pretoria,34,15000,Active,14-07-22
+1108,Sipho,Jones,,Customer Support,Administrator,Johannesburg,25,35000,On Leave,25-10-23
+1109,Sipho,Smith,,Finance,Analyst,Bloemfontein,-1,22000,On Leave,21-06-19
+1110,Sipho,Jones,thabo.dlamini@gmail.com,Operations,Administrator,Johannesburg,25,15000,Resigned,11-10-19
+1111, john ,Mokoena,,Customer Support,Specialist,Bloemfontein,55,35000,Resigned,27-04-19
+1112,Lerato,Mokoena,,Operations,Coordinator,Pretoria,25,62000,On Leave,31-05-23
+1113,SARAH,Dlamini, john.smith@gmail.com ,Marketing,Specialist,Bloemfontein,29,15000,Resigned,14-07-19
+1114,SARAH,Jones,,Customer Support,Administrator,Cape Town,34,62000,Resigned,07-05-21
+1115,Sipho,Jones,,Marketing,Administrator,Durban,-1,22000,On Leave,14-11-21
+1116,John,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Durban,55,48000,On Leave,05-09-20
+1117,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Cape Town,41,62000,Resigned,11-04-22
+1118,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Administrator,Johannesburg,55,22000,Resigned,16-02-19
+1119,Thabo,Smith, john.smith@gmail.com ,Human Resources,Manager,Pretoria,55,15000,Resigned,25-09-19
+1120,Lerato,Khumalo,,Operations,Analyst,Bloemfontein,22,22000,On Leave,26-12-23
+1121,Nomsa, mokoena ,thabo.dlamini@gmail.com,Marketing,Analyst,Johannesburg,34,22000,On Leave,23-03-21
+1122,Thabo,Dlamini, john.smith@gmail.com ,Finance,Specialist,Durban,29,48000,Active,11-05-21
+1123,John,Smith,,Customer Support,Coordinator,Cape Town,25,15000,On Leave,27-09-20
+1124,John, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Cape Town,25,48000,On Leave,16-04-22
+1125,Lerato,Khumalo,thabo.dlamini@gmail.com,Marketing,Specialist,Bloemfontein,25,15000,Resigned,06-11-20
+1126,John,Khumalo,,Customer Support,Specialist,Pretoria,-1,35000,Active,16-11-21
+1127,SARAH,Smith,thabo.dlamini@gmail.com,IT,Administrator,Bloemfontein,29,62000,Resigned,25-04-22
+1128,Thabo, mokoena ,,Human Resources,Analyst,Bloemfontein,-1,15000,On Leave,24-04-21
+1129,SARAH,Khumalo,Nomsa.Khumalo@yahoo.com,Operations,Specialist,Cape Town,55,22000,On Leave,28-07-23
+1130, john , mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Analyst,Johannesburg,29,48000,Active,23-10-20
+1131,Sipho, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Durban,55,48000,Active,01-07-24
+1132,Nomsa,Jones, john.smith@gmail.com ,Operations,Manager,Durban,-1,22000,Resigned,02-04-20
+1133,SARAH,Khumalo, john.smith@gmail.com ,Finance,Administrator,Johannesburg,25,22000,On Leave,28-05-23
+1134,SARAH,Jones, john.smith@gmail.com ,Finance,Administrator,Johannesburg,29,62000,Active,16-06-22
+1135,Sipho, mokoena , john.smith@gmail.com ,Operations,Administrator,Durban,22,22000,Resigned,06-02-23
+1136,John,Jones, john.smith@gmail.com ,Operations,Coordinator,Johannesburg,55,48000,On Leave,13-04-18
+1137, john ,Smith,thabo.dlamini@gmail.com,IT,Analyst,Johannesburg,29,48000,Active,22-05-21
+1138,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Durban,55,62000,Resigned,03-02-19
+1139, john , mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Pretoria,41,48000,Resigned,02-08-24
+1140, john ,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Cape Town,-1,35000,Active,15-05-18
+1141,John, mokoena , john.smith@gmail.com ,Finance,Administrator,Durban,25,15000,Resigned,13-02-22
+1142, john ,Mokoena,,Finance,Analyst,Durban,25,22000,On Leave,11-01-19
+1143,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Cape Town,29,22000,On Leave,20-04-20
+1144,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Operations,Specialist,Cape Town,22,15000,Active,12-01-18
+1145,Sipho,Mokoena,,Human Resources,Analyst,Cape Town,29,15000,Active,02-03-18
+1146,John,Dlamini,thabo.dlamini@gmail.com,Marketing,Administrator,Durban,41,62000,Active,21-09-22
+1147,John,Mokoena,,Finance,Manager,Durban,34,15000,Active,26-01-23
+1148,SARAH,Smith,,Customer Support,Analyst,Pretoria,55,48000,Active,16-05-23
+1149,Sipho,Jones,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Durban,41,62000,On Leave,27-11-18
+1150,Lerato,Jones,,Human Resources,Administrator,Bloemfontein,41,48000,Active,24-08-21
+1151,SARAH, mokoena ,,Customer Support,Coordinator,Pretoria,34,22000,Resigned,14-04-19
+1152,SARAH,Smith,,Marketing,Analyst,Durban,34,35000,On Leave,20-10-21
+1153,Sipho,Mokoena,,Finance,Analyst,Johannesburg,22,48000,Active,10-11-20
+1154,SARAH,Mokoena,,Finance,Manager,Bloemfontein,41,35000,On Leave,07-03-22
+1155,Lerato,Khumalo,,Customer Support,Analyst,Durban,41,35000,Resigned,16-05-19
+1156,John,Jones,Nomsa.Khumalo@yahoo.com,IT,Administrator,Cape Town,-1,15000,Resigned,01-03-19
+1157,Sipho,Dlamini, john.smith@gmail.com ,Operations,Coordinator,Pretoria,-1,62000,On Leave,28-03-24
+1158,Thabo,Jones, john.smith@gmail.com ,Finance,Coordinator,Durban,55,35000,Resigned,30-03-24
+1159,Thabo,Mokoena,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Johannesburg,25,15000,Active,08-12-21
+1160,Nomsa,Smith,,Marketing,Specialist,Cape Town,29,35000,On Leave,13-12-23
+1161,SARAH,Jones,,Finance,Analyst,Cape Town,25,62000,Active,21-08-21
+1162,Sipho,Smith,,Marketing,Manager,Pretoria,34,35000,Active,01-12-18
+1163,Thabo,Khumalo,,Finance,Specialist,Bloemfontein,34,62000,On Leave,30-09-23
+1164,Thabo,Mokoena,,Operations,Analyst,Johannesburg,25,35000,Active,17-06-21
+1165,SARAH,Khumalo, john.smith@gmail.com ,Human Resources,Analyst,Johannesburg,34,48000,Active,17-07-19
+1166,Lerato,Jones,Nomsa.Khumalo@yahoo.com,Operations,Manager,Durban,22,48000,On Leave,14-06-19
+1167,Lerato,Dlamini,,Finance,Specialist,Bloemfontein,34,62000,Resigned,23-06-18
+1168,Sipho,Dlamini,,Finance,Specialist,Cape Town,-1,62000,Resigned,07-09-22
+1169,Thabo,Smith,thabo.dlamini@gmail.com,IT,Administrator,Bloemfontein,34,62000,Active,22-01-22
+1170,SARAH,Khumalo, john.smith@gmail.com ,IT,Specialist,Cape Town,22,62000,On Leave,10-06-22
+1171,John,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Cape Town,25,15000,Active,13-04-19
+1172,Nomsa,Mokoena,,IT,Analyst,Cape Town,-1,48000,Resigned,14-11-20
+1173,SARAH,Jones,,Customer Support,Manager,Bloemfontein,29,35000,Active,28-04-24
+1174,Thabo,Smith,,Customer Support,Specialist,Durban,41,15000,Resigned,07-12-22
+1175,Thabo,Khumalo,,Marketing,Analyst,Johannesburg,29,35000,Active,10-09-23
+1176,John,Jones,,Marketing,Administrator,Bloemfontein,41,15000,Resigned,05-01-19
+1177, john ,Mokoena, john.smith@gmail.com ,Operations,Administrator,Bloemfontein,25,15000,Resigned,30-05-24
+1178,SARAH,Khumalo,thabo.dlamini@gmail.com,Operations,Coordinator,Johannesburg,25,48000,Resigned,28-02-19
+1179,John,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Durban,34,48000,Resigned,17-11-23
+1180,Thabo, mokoena , john.smith@gmail.com ,Finance,Specialist,Johannesburg,41,48000,Resigned,14-09-24
+1181, john , mokoena ,,IT,Specialist,Johannesburg,41,22000,Resigned,29-10-20
+1182, john , mokoena ,,IT,Manager,Johannesburg,29,62000,Resigned,24-06-21
+1183,SARAH,Mokoena,,Finance,Administrator,Bloemfontein,29,15000,Resigned,07-09-21
+1184,Nomsa,Mokoena, john.smith@gmail.com ,Marketing,Coordinator,Cape Town,25,22000,Active,19-06-21
+1185,SARAH,Dlamini,,Operations,Manager,Johannesburg,55,35000,On Leave,26-04-21
+1186,John,Smith,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Bloemfontein,-1,22000,On Leave,21-06-19
+1187,Thabo,Smith, john.smith@gmail.com ,Customer Support,Coordinator,Pretoria,41,35000,On Leave,28-11-22
+1188,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Administrator,Cape Town,29,62000,Resigned,13-01-23
+1189,SARAH,Khumalo,,Operations,Manager,Pretoria,25,22000,On Leave,07-03-23
+1190,SARAH,Khumalo,thabo.dlamini@gmail.com,Customer Support,Administrator,Durban,41,15000,On Leave,21-07-19
+1191,SARAH,Dlamini, john.smith@gmail.com ,Finance,Coordinator,Durban,34,62000,Active,15-10-23
+1192,Thabo,Mokoena,,Human Resources,Analyst,Pretoria,22,48000,On Leave,27-11-22
+1193,Nomsa,Smith,thabo.dlamini@gmail.com,Human Resources,Coordinator,Johannesburg,29,15000,On Leave,12-03-22
+1194,SARAH,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Pretoria,55,22000,On Leave,05-10-21
+1195,Lerato,Jones,thabo.dlamini@gmail.com,Finance,Analyst,Durban,25,22000,On Leave,06-04-23
+1196,John,Smith,thabo.dlamini@gmail.com,Human Resources,Coordinator,Durban,22,15000,Active,29-10-24
+1197, john ,Jones,,Finance,Analyst,Pretoria,41,62000,Active,16-09-22
+1198,John,Mokoena,Nomsa.Khumalo@yahoo.com,Human Resources,Administrator,Johannesburg,41,35000,Active,12-10-23
+1199,Lerato,Mokoena,thabo.dlamini@gmail.com,Operations,Specialist,Johannesburg,41,62000,On Leave,26-05-24
+1200,John,Dlamini,,Marketing,Analyst,Pretoria,29,35000,On Leave,11-09-23
+1201,Sipho,Dlamini, john.smith@gmail.com ,IT,Analyst,Bloemfontein,55,35000,Active,08-03-18
+1202,Sipho,Jones, john.smith@gmail.com ,Customer Support,Coordinator,Pretoria,55,48000,On Leave,01-07-18
+1203,SARAH,Mokoena,thabo.dlamini@gmail.com,Customer Support,Administrator,Johannesburg,29,22000,Active,17-01-20
+1204,Thabo,Khumalo, john.smith@gmail.com ,Operations,Administrator,Bloemfontein,34,35000,Active,28-03-20
+1205,Sipho,Khumalo,thabo.dlamini@gmail.com,Customer Support,Specialist,Durban,22,35000,Resigned,22-02-20
+1206, john ,Smith,,Human Resources,Coordinator,Pretoria,55,48000,Resigned,27-06-22
+1207,Sipho,Dlamini,,Finance,Administrator,Bloemfontein,-1,22000,On Leave,28-10-23
+1208,Sipho,Dlamini,thabo.dlamini@gmail.com,Human Resources,Specialist,Durban,34,62000,On Leave,18-04-21
+1209,Nomsa, mokoena ,,Human Resources,Administrator,Johannesburg,55,35000,On Leave,12-10-22
+1210,Sipho, mokoena ,thabo.dlamini@gmail.com,Finance,Administrator,Durban,41,22000,Active,17-11-22
+1211,SARAH,Jones,,Finance,Coordinator,Johannesburg,25,35000,Resigned,08-08-19
+1212,John,Dlamini,,IT,Administrator,Durban,29,48000,Active,18-04-22
+1213,Nomsa,Jones, john.smith@gmail.com ,Marketing,Specialist,Durban,25,15000,Active,08-06-24
+1214,Lerato,Jones,,Operations,Analyst,Durban,-1,35000,On Leave,02-02-20
+1215,Nomsa,Jones, john.smith@gmail.com ,Customer Support,Administrator,Cape Town,22,22000,Active,02-01-23
+1216,Nomsa, mokoena ,,Finance,Specialist,Durban,55,15000,On Leave,26-01-23
+1217,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Coordinator,Durban,41,22000,Active,30-01-24
+1218,SARAH,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Durban,41,62000,Resigned,03-04-20
+1219,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Operations,Analyst,Johannesburg,29,48000,On Leave,30-03-23
+1220,John,Smith,,Operations,Analyst,Cape Town,29,15000,Resigned,15-05-23
+1221, john ,Jones, john.smith@gmail.com ,IT,Manager,Bloemfontein,25,22000,Resigned,24-03-23
+1222,SARAH,Dlamini,thabo.dlamini@gmail.com,Operations,Coordinator,Durban,25,22000,Resigned,22-08-23
+1223,Sipho,Jones, john.smith@gmail.com ,Finance,Specialist,Cape Town,55,62000,Resigned,12-07-20
+1224, john ,Khumalo,,Operations,Analyst,Bloemfontein,55,22000,On Leave,28-05-19
+1225,Nomsa,Mokoena,,Customer Support,Manager,Durban,-1,62000,Active,06-07-24
+1226,Thabo,Dlamini,,Human Resources,Coordinator,Bloemfontein,34,62000,On Leave,27-04-18
+1227,Lerato, mokoena ,,Human Resources,Specialist,Pretoria,25,48000,Resigned,05-05-18
+1228,Thabo, mokoena ,thabo.dlamini@gmail.com,IT,Administrator,Pretoria,34,48000,Active,01-02-23
+1229,John,Mokoena, john.smith@gmail.com ,Customer Support,Specialist,Durban,34,22000,Resigned,25-10-21
+1230,John,Dlamini, john.smith@gmail.com ,IT,Administrator,Johannesburg,29,48000,Active,11-10-23
+1231,Thabo,Dlamini, john.smith@gmail.com ,Marketing,Manager,Pretoria,25,22000,Resigned,01-08-19
+1232, john ,Khumalo,Nomsa.Khumalo@yahoo.com,IT,Administrator,Bloemfontein,34,48000,Resigned,24-06-24
+1233,Thabo,Dlamini,,Operations,Administrator,Cape Town,25,62000,Resigned,31-07-23
+1234,Thabo,Khumalo,,Operations,Administrator,Durban,41,15000,Active,19-07-18
+1235,Nomsa,Khumalo, john.smith@gmail.com ,Marketing,Specialist,Johannesburg,34,15000,On Leave,01-11-22
+1236,Nomsa,Khumalo,,Human Resources,Analyst,Pretoria,41,48000,On Leave,20-04-24
+1237,SARAH,Jones,,Finance,Coordinator,Johannesburg,34,35000,Resigned,19-02-21
+1238,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Operations,Manager,Pretoria,41,15000,Active,03-04-24
+1239,Nomsa, mokoena , john.smith@gmail.com ,Marketing,Manager,Pretoria,25,62000,On Leave,09-06-18
+1240,Sipho,Jones, john.smith@gmail.com ,IT,Administrator,Bloemfontein,55,35000,On Leave,27-07-19
+1241,John,Jones,,Marketing,Manager,Durban,34,15000,Resigned,09-10-21
+1242, john ,Dlamini,,Operations,Specialist,Johannesburg,41,48000,Resigned,18-09-21
+1243,John,Mokoena,thabo.dlamini@gmail.com,Operations,Administrator,Cape Town,41,62000,Resigned,27-06-24
+1244,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Manager,Johannesburg,25,15000,Resigned,29-08-19
+1245,Lerato,Mokoena,,Customer Support,Coordinator,Pretoria,41,62000,Resigned,08-07-21
+1246, john ,Mokoena,,IT,Manager,Durban,55,48000,On Leave,13-09-18
+1247,Sipho,Mokoena,,Operations,Specialist,Bloemfontein,29,35000,On Leave,24-03-22
+1248,Nomsa,Mokoena, john.smith@gmail.com ,Operations,Specialist,Cape Town,29,35000,On Leave,07-06-23
+1249, john , mokoena ,,Human Resources,Administrator,Durban,41,35000,Resigned,29-04-20
+1250,John, mokoena ,,Marketing,Administrator,Durban,-1,22000,Resigned,15-05-19
+1251,Sipho, mokoena ,thabo.dlamini@gmail.com,Human Resources,Administrator,Durban,55,48000,Active,22-06-18
+1252,SARAH,Jones, john.smith@gmail.com ,Operations,Specialist,Cape Town,22,62000,On Leave,07-04-20
+1253,Nomsa,Mokoena,thabo.dlamini@gmail.com,Customer Support,Manager,Cape Town,55,22000,Active,31-07-24
+1254,Lerato,Khumalo,,Finance,Coordinator,Johannesburg,41,22000,Resigned,15-02-19
+1255,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Durban,55,15000,Active,03-05-23
+1256,Nomsa,Jones,thabo.dlamini@gmail.com,IT,Administrator,Cape Town,22,48000,Resigned,09-06-24
+1257, john ,Khumalo,thabo.dlamini@gmail.com,Finance,Specialist,Bloemfontein,41,15000,Resigned,03-02-20
+1258,Lerato, mokoena ,,Operations,Administrator,Cape Town,-1,62000,Resigned,11-03-21
+1259,Nomsa,Dlamini, john.smith@gmail.com ,IT,Administrator,Durban,55,22000,Active,22-01-21
+1260,SARAH,Khumalo,,Customer Support,Coordinator,Cape Town,41,48000,Resigned,12-10-21
+1261,Sipho,Dlamini,,Customer Support,Analyst,Cape Town,25,48000,Resigned,12-10-23
+1262,Thabo,Khumalo,,IT,Administrator,Durban,29,35000,On Leave,13-10-20
+1263,Thabo,Khumalo, john.smith@gmail.com ,Customer Support,Coordinator,Johannesburg,55,15000,Resigned,04-06-24
+1264,Nomsa,Smith,,Customer Support,Specialist,Johannesburg,55,35000,Resigned,10-06-21
+1265,Nomsa,Mokoena,,IT,Administrator,Bloemfontein,29,48000,On Leave,23-06-20
+1266,Lerato,Jones,Nomsa.Khumalo@yahoo.com,IT,Manager,Johannesburg,41,48000,On Leave,28-02-24
+1267,Thabo,Jones,thabo.dlamini@gmail.com,Finance,Manager,Bloemfontein,25,62000,On Leave,21-01-22
+1268,Nomsa,Khumalo,,Marketing,Analyst,Cape Town,55,62000,Resigned,06-09-19
+1269,John,Smith,thabo.dlamini@gmail.com,Marketing,Coordinator,Bloemfontein,34,48000,On Leave,08-01-19
+1270,John,Smith, john.smith@gmail.com ,Customer Support,Analyst,Pretoria,29,15000,On Leave,25-08-18
+1271,John,Dlamini,thabo.dlamini@gmail.com,Marketing,Specialist,Johannesburg,41,15000,Active,11-06-20
+1272,Thabo,Khumalo,,IT,Coordinator,Pretoria,29,48000,Resigned,18-04-23
+1273,Lerato,Dlamini,,IT,Specialist,Johannesburg,25,62000,Resigned,27-03-22
+1274,Nomsa, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Durban,34,62000,Resigned,07-12-23
+1275,Lerato,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Cape Town,29,22000,On Leave,19-12-23
+1276,Thabo, mokoena ,,Operations,Analyst,Cape Town,25,15000,Active,08-04-19
+1277,Thabo,Smith,,Customer Support,Analyst,Cape Town,55,15000,Resigned,29-08-24
+1278,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Bloemfontein,29,22000,On Leave,03-12-22
+1279,Sipho,Jones,,Customer Support,Specialist,Cape Town,29,22000,On Leave,17-06-24
+1280,Nomsa,Smith, john.smith@gmail.com ,Human Resources,Analyst,Bloemfontein,41,22000,On Leave,06-11-23
+1281,John,Smith,thabo.dlamini@gmail.com,Human Resources,Administrator,Bloemfontein,29,48000,Resigned,16-10-22
+1282,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Cape Town,-1,22000,Resigned,04-09-19
+1283,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Administrator,Pretoria,41,62000,Active,15-08-19
+1284,Nomsa,Khumalo,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Pretoria,-1,35000,Active,10-05-22
+1285, john ,Mokoena,thabo.dlamini@gmail.com,Human Resources,Administrator,Bloemfontein,41,15000,Active,03-01-24
+1286,SARAH,Jones,,IT,Administrator,Cape Town,-1,35000,Resigned,10-02-20
+1287,Nomsa,Mokoena,thabo.dlamini@gmail.com,Customer Support,Administrator,Cape Town,55,62000,On Leave,04-03-18
+1288,Lerato,Mokoena,,Human Resources,Specialist,Pretoria,34,62000,On Leave,17-04-20
+1289,Sipho,Khumalo, john.smith@gmail.com ,Operations,Administrator,Pretoria,22,48000,Resigned,11-01-22
+1290,Sipho,Khumalo,,Finance,Manager,Cape Town,55,22000,Active,12-04-20
+1291,John,Jones,,Customer Support,Administrator,Durban,25,22000,Resigned,04-12-20
+1292,Lerato,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Durban,29,48000,On Leave,31-07-20
+1293,Lerato,Mokoena, john.smith@gmail.com ,IT,Coordinator,Bloemfontein,34,22000,On Leave,03-07-23
+1294,John,Dlamini,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,34,22000,On Leave,29-08-18
+1295,Thabo, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Bloemfontein,34,35000,Active,05-08-20
+1296, john ,Smith,thabo.dlamini@gmail.com,Finance,Manager,Bloemfontein,34,15000,Active,03-06-23
+1297, john ,Khumalo,,Human Resources,Analyst,Bloemfontein,-1,48000,Active,09-12-23
+1298,Thabo,Jones,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Bloemfontein,41,35000,Resigned,15-03-19
+1299,SARAH,Smith,thabo.dlamini@gmail.com,Human Resources,Administrator,Pretoria,41,22000,On Leave,30-12-20
+1300,Sipho, mokoena ,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,34,48000,Resigned,14-07-20
+1301,Lerato,Dlamini,thabo.dlamini@gmail.com,Customer Support,Coordinator,Johannesburg,34,48000,On Leave,13-03-24
+1302,John,Dlamini,,Finance,Coordinator,Cape Town,-1,62000,Resigned,18-09-21
+1303,Thabo,Dlamini, john.smith@gmail.com ,Operations,Manager,Johannesburg,25,35000,Active,15-01-21
+1304,John,Mokoena,,Finance,Specialist,Cape Town,41,22000,On Leave,28-04-20
+1305, john ,Jones, john.smith@gmail.com ,Marketing,Coordinator,Johannesburg,41,35000,Active,13-05-22
+1306,Lerato,Mokoena,thabo.dlamini@gmail.com,Human Resources,Manager,Bloemfontein,41,48000,Resigned,05-02-19
+1307, john ,Khumalo,,Marketing,Coordinator,Durban,41,48000,Resigned,02-05-18
+1308, john ,Jones,,Finance,Manager,Durban,-1,22000,On Leave,31-01-20
+1309,Thabo,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Coordinator,Pretoria,29,35000,Active,29-10-18
+1310,Thabo,Khumalo,,Human Resources,Specialist,Johannesburg,25,15000,Active,10-01-19
+1311,Lerato,Jones,,Operations,Administrator,Johannesburg,22,15000,Resigned,01-11-22
+1312,Thabo,Jones,,Human Resources,Administrator,Johannesburg,29,48000,Resigned,20-03-24
+1313, john ,Jones,Nomsa.Khumalo@yahoo.com,Operations,Manager,Cape Town,55,48000,Active,13-12-18
+1314,Sipho,Khumalo, john.smith@gmail.com ,Marketing,Coordinator,Johannesburg,25,48000,Resigned,23-07-19
+1315,Sipho,Smith,thabo.dlamini@gmail.com,Human Resources,Specialist,Cape Town,55,48000,On Leave,21-09-22
+1316,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Pretoria,29,62000,Resigned,11-03-20
+1317,Lerato,Khumalo,,Customer Support,Manager,Cape Town,29,35000,On Leave,11-09-21
+1318,Lerato,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,55,48000,On Leave,02-04-20
+1319,Sipho,Smith, john.smith@gmail.com ,Marketing,Specialist,Johannesburg,41,22000,On Leave,19-09-20
+1320,Nomsa, mokoena ,,Finance,Administrator,Cape Town,34,35000,On Leave,13-02-24
+1321,SARAH,Smith,,IT,Specialist,Cape Town,29,22000,On Leave,11-10-18
+1322,SARAH,Smith,thabo.dlamini@gmail.com,Marketing,Manager,Pretoria,41,48000,On Leave,30-09-22
+1323,SARAH, mokoena ,,Operations,Analyst,Durban,55,62000,On Leave,07-09-23
+1324,Thabo,Mokoena, john.smith@gmail.com ,IT,Manager,Johannesburg,41,48000,Resigned,15-12-18
+1325,Thabo,Dlamini,thabo.dlamini@gmail.com,Human Resources,Coordinator,Bloemfontein,55,62000,On Leave,30-10-22
+1326, john ,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Pretoria,34,62000,On Leave,05-07-24
+1327,Nomsa,Khumalo,thabo.dlamini@gmail.com,Marketing,Analyst,Durban,34,15000,Active,12-08-23
+1328,Sipho,Khumalo, john.smith@gmail.com ,Marketing,Coordinator,Bloemfontein,34,35000,Resigned,04-08-19
+1329,Lerato, mokoena ,,Human Resources,Analyst,Durban,22,15000,Active,04-02-19
+1330, john ,Dlamini,Nomsa.Khumalo@yahoo.com,Customer Support,Coordinator,Bloemfontein,25,62000,Active,06-11-21
+1331,John,Smith,,IT,Administrator,Cape Town,25,48000,Resigned,17-09-21
+1332, john ,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Pretoria,34,15000,On Leave,30-04-18
+1333,Nomsa,Khumalo,thabo.dlamini@gmail.com,Operations,Analyst,Bloemfontein,25,35000,Resigned,29-05-20
+1334,Lerato,Dlamini, john.smith@gmail.com ,Customer Support,Administrator,Bloemfontein,55,35000,On Leave,18-03-20
+1335,John,Smith,,Finance,Specialist,Durban,-1,48000,On Leave,11-05-22
+1336,SARAH, mokoena , john.smith@gmail.com ,Operations,Manager,Johannesburg,55,22000,Resigned,08-12-19
+1337,Nomsa,Khumalo,thabo.dlamini@gmail.com,IT,Specialist,Cape Town,41,48000,Resigned,28-04-19
+1338,Nomsa,Jones,,Marketing,Coordinator,Pretoria,55,62000,On Leave,08-09-24
+1339,John,Mokoena,,Human Resources,Coordinator,Cape Town,29,48000,On Leave,11-12-19
+1340,SARAH,Khumalo,thabo.dlamini@gmail.com,Marketing,Coordinator,Cape Town,-1,48000,On Leave,08-08-18
+1341, john ,Smith,,Customer Support,Administrator,Pretoria,55,48000,Resigned,02-09-23
+1342,Thabo,Jones,thabo.dlamini@gmail.com,IT,Specialist,Johannesburg,29,22000,On Leave,17-11-19
+1343,Nomsa,Smith,,Customer Support,Administrator,Bloemfontein,41,15000,On Leave,28-03-21
+1344,Sipho,Jones, john.smith@gmail.com ,Operations,Analyst,Pretoria,41,22000,Resigned,13-04-19
+1345, john , mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Pretoria,29,35000,Active,24-02-19
+1346,SARAH,Dlamini,Nomsa.Khumalo@yahoo.com,IT,Manager,Durban,-1,62000,On Leave,04-12-22
+1347,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Johannesburg,41,35000,On Leave,20-10-22
+1348,John,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Durban,41,35000,On Leave,25-02-21
+1349,Nomsa,Smith,thabo.dlamini@gmail.com,Human Resources,Coordinator,Cape Town,25,22000,On Leave,26-01-19
+1350,SARAH,Mokoena,,Marketing,Coordinator,Bloemfontein,55,35000,On Leave,12-08-21
+1351,Lerato,Smith,thabo.dlamini@gmail.com,Customer Support,Analyst,Pretoria,41,35000,On Leave,24-08-22
+1352,Lerato,Smith, john.smith@gmail.com ,Operations,Analyst,Johannesburg,55,48000,On Leave,20-02-22
+1353,SARAH,Dlamini,,Marketing,Coordinator,Pretoria,-1,22000,Resigned,07-01-22
+1354,Sipho,Khumalo, john.smith@gmail.com ,Operations,Manager,Cape Town,41,48000,Resigned,04-01-21
+1355,Thabo,Dlamini,,Finance,Analyst,Cape Town,34,48000,Active,18-07-18
+1356,Nomsa, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Cape Town,-1,35000,Active,19-10-22
+1357,Sipho,Dlamini, john.smith@gmail.com ,Customer Support,Coordinator,Johannesburg,34,35000,On Leave,16-01-22
+1358,Lerato, mokoena ,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,25,48000,Active,17-08-20
+1359,John,Mokoena,,Customer Support,Administrator,Johannesburg,22,35000,Active,28-06-19
+1360, john ,Mokoena,,Finance,Coordinator,Pretoria,22,15000,Active,26-09-22
+1361,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Coordinator,Cape Town,22,62000,On Leave,07-07-21
+1362,John, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Cape Town,55,22000,Resigned,04-02-18
+1363,SARAH,Mokoena,thabo.dlamini@gmail.com,Finance,Coordinator,Johannesburg,41,48000,Resigned,18-12-22
+1364,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,41,62000,On Leave,25-10-22
+1365,Sipho, mokoena ,thabo.dlamini@gmail.com,Customer Support,Specialist,Cape Town,41,62000,On Leave,24-10-24
+1366, john ,Smith, john.smith@gmail.com ,Customer Support,Analyst,Cape Town,34,48000,Active,12-02-20
+1367,Lerato, mokoena ,,Finance,Manager,Johannesburg,29,35000,Active,14-09-20
+1368,SARAH,Jones,,Human Resources,Manager,Cape Town,-1,48000,Active,04-05-22
+1369,John,Dlamini,thabo.dlamini@gmail.com,Human Resources,Coordinator,Johannesburg,22,48000,On Leave,10-03-18
+1370, john , mokoena ,,Marketing,Administrator,Pretoria,22,62000,On Leave,19-03-21
+1371,Sipho,Dlamini, john.smith@gmail.com ,Finance,Manager,Cape Town,-1,22000,On Leave,18-09-19
+1372,Lerato,Jones,thabo.dlamini@gmail.com,Human Resources,Administrator,Cape Town,22,22000,Active,31-08-21
+1373,Thabo,Smith,,Operations,Analyst,Durban,55,22000,Active,15-11-22
+1374, john ,Mokoena,thabo.dlamini@gmail.com,IT,Administrator,Durban,41,62000,On Leave,21-02-18
+1375,Nomsa,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Johannesburg,-1,15000,Resigned,27-11-20
+1376,Sipho,Jones,thabo.dlamini@gmail.com,Human Resources,Manager,Johannesburg,34,48000,On Leave,25-10-22
+1377,Thabo,Smith,,IT,Specialist,Cape Town,29,15000,On Leave,15-01-22
+1378,Nomsa, mokoena ,,Finance,Analyst,Johannesburg,25,15000,Resigned,18-04-19
+1379,Lerato,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Manager,Pretoria,25,35000,Active,30-01-22
+1380, john ,Khumalo, john.smith@gmail.com ,Finance,Manager,Durban,22,62000,On Leave,01-09-22
+1381,Nomsa,Mokoena,,Finance,Administrator,Johannesburg,34,35000,Resigned,04-08-18
+1382,Thabo,Jones,,Finance,Specialist,Cape Town,29,62000,Resigned,02-09-21
+1383,Lerato,Khumalo,,Marketing,Coordinator,Bloemfontein,-1,22000,Active,20-09-20
+1384,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Operations,Specialist,Johannesburg,29,15000,On Leave,27-01-18
+1385,SARAH, mokoena , john.smith@gmail.com ,Finance,Coordinator,Bloemfontein,25,48000,Resigned,22-03-22
+1386,Nomsa, mokoena , john.smith@gmail.com ,Finance,Analyst,Cape Town,-1,62000,Resigned,03-09-18
+1387,Lerato, mokoena ,thabo.dlamini@gmail.com,Operations,Analyst,Bloemfontein,25,48000,Active,06-03-22
+1388,John,Dlamini,,Customer Support,Coordinator,Cape Town,29,35000,Resigned,21-08-24
+1389, john , mokoena , john.smith@gmail.com ,Human Resources,Administrator,Durban,25,15000,Active,29-05-22
+1390,SARAH,Jones,thabo.dlamini@gmail.com,IT,Analyst,Cape Town,34,48000,Resigned,12-07-19
+1391,Thabo,Jones, john.smith@gmail.com ,IT,Administrator,Durban,34,35000,Active,24-07-22
+1392,Nomsa, mokoena , john.smith@gmail.com ,Customer Support,Manager,Johannesburg,25,35000,Active,06-01-19
+1393, john ,Mokoena, john.smith@gmail.com ,Marketing,Manager,Johannesburg,55,35000,Resigned,09-01-19
+1394,Thabo,Smith,,Operations,Manager,Cape Town,22,48000,Active,14-12-19
+1395,Thabo,Dlamini,thabo.dlamini@gmail.com,IT,Coordinator,Cape Town,-1,48000,Resigned,27-07-19
+1396,John,Jones, john.smith@gmail.com ,Finance,Analyst,Johannesburg,25,48000,Active,11-12-18
+1397,SARAH,Khumalo,thabo.dlamini@gmail.com,Finance,Administrator,Johannesburg,25,62000,Resigned,12-01-19
+1398,Lerato,Dlamini,,Customer Support,Administrator,Cape Town,29,22000,Active,06-06-22
+1399,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Finance,Manager,Bloemfontein,41,22000,On Leave,31-01-21
+1400,Lerato,Smith,,Marketing,Analyst,Johannesburg,29,48000,Active,23-04-21
+1401,Nomsa, mokoena ,,IT,Manager,Johannesburg,34,35000,Resigned,14-09-22
+1402,SARAH,Smith, john.smith@gmail.com ,Operations,Manager,Durban,34,35000,Active,09-02-24
+1403,Sipho,Jones,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Johannesburg,-1,48000,On Leave,17-04-18
+1404,SARAH,Jones,Nomsa.Khumalo@yahoo.com,IT,Analyst,Cape Town,55,22000,Resigned,04-01-22
+1405,SARAH, mokoena ,thabo.dlamini@gmail.com,IT,Manager,Pretoria,29,22000,Active,26-12-23
+1406,John,Khumalo, john.smith@gmail.com ,Operations,Analyst,Durban,41,62000,Active,26-08-20
+1407,Nomsa,Smith,,Human Resources,Coordinator,Pretoria,22,15000,Active,25-04-24
+1408,John,Mokoena,thabo.dlamini@gmail.com,Operations,Administrator,Johannesburg,29,62000,Active,10-08-20
+1409,Sipho, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Johannesburg,25,62000,On Leave,19-06-19
+1410,SARAH,Dlamini,,Human Resources,Analyst,Durban,55,48000,On Leave,04-08-19
+1411,Sipho,Khumalo, john.smith@gmail.com ,IT,Coordinator,Pretoria,-1,48000,On Leave,18-02-19
+1412,Nomsa, mokoena ,,Customer Support,Manager,Durban,25,62000,Active,23-07-21
+1413,Sipho, mokoena , john.smith@gmail.com ,IT,Coordinator,Johannesburg,55,62000,Resigned,30-03-22
+1414,Thabo,Mokoena,,Human Resources,Manager,Cape Town,55,62000,Active,13-05-24
+1415,Nomsa,Khumalo,thabo.dlamini@gmail.com,IT,Specialist,Durban,25,15000,On Leave,26-07-23
+1416,Lerato,Dlamini, john.smith@gmail.com ,IT,Coordinator,Johannesburg,29,35000,Active,07-10-21
+1417,Thabo,Smith,,Customer Support,Administrator,Cape Town,34,48000,Resigned,06-01-18
+1418,John,Smith,thabo.dlamini@gmail.com,Marketing,Manager,Cape Town,25,48000,Active,09-12-21
+1419,Sipho,Dlamini, john.smith@gmail.com ,Human Resources,Analyst,Johannesburg,29,22000,Resigned,17-05-18
+1420, john ,Dlamini,,Finance,Specialist,Bloemfontein,41,48000,On Leave,22-10-19
+1421,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Cape Town,22,15000,Resigned,07-05-18
+1422,Nomsa,Smith,,Customer Support,Manager,Durban,55,35000,Resigned,21-04-20
+1423,Thabo,Dlamini,,Operations,Manager,Pretoria,25,15000,Resigned,30-08-20
+1424,Lerato,Dlamini, john.smith@gmail.com ,Customer Support,Manager,Pretoria,25,15000,Active,16-01-18
+1425,Nomsa, mokoena , john.smith@gmail.com ,Finance,Administrator,Johannesburg,29,48000,Resigned,27-04-20
+1426, john ,Khumalo,thabo.dlamini@gmail.com,Customer Support,Manager,Pretoria,25,35000,Resigned,27-06-23
+1427,Nomsa,Smith,thabo.dlamini@gmail.com,Human Resources,Administrator,Pretoria,29,22000,Resigned,22-02-22
+1428,Thabo,Mokoena,thabo.dlamini@gmail.com,Finance,Specialist,Bloemfontein,34,62000,Active,30-04-24
+1429,Thabo,Smith,,Marketing,Manager,Pretoria,41,22000,Resigned,17-03-24
+1430,Thabo,Smith,thabo.dlamini@gmail.com,Operations,Manager,Bloemfontein,-1,62000,On Leave,09-05-21
+1431,Thabo,Smith,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Cape Town,25,15000,Resigned,27-08-19
+1432, john ,Smith,Nomsa.Khumalo@yahoo.com,Customer Support,Coordinator,Bloemfontein,29,35000,On Leave,17-11-18
+1433,Thabo,Smith,,Marketing,Manager,Durban,-1,35000,On Leave,02-10-18
+1434,SARAH,Dlamini,,Operations,Manager,Pretoria,22,48000,Active,20-02-23
+1435,John,Jones,,Finance,Analyst,Bloemfontein,-1,15000,Resigned,31-08-19
+1436,Sipho,Smith, john.smith@gmail.com ,Marketing,Administrator,Bloemfontein,41,48000,Active,03-01-24
+1437,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Operations,Manager,Pretoria,22,48000,Resigned,07-12-19
+1438,Thabo, mokoena ,,Human Resources,Specialist,Johannesburg,29,35000,Resigned,31-08-20
+1439,SARAH,Smith,thabo.dlamini@gmail.com,IT,Coordinator,Durban,55,48000,Resigned,22-02-21
+1440, john ,Smith,,Customer Support,Analyst,Cape Town,34,22000,Resigned,08-01-21
+1441,SARAH,Jones, john.smith@gmail.com ,Finance,Manager,Cape Town,22,35000,On Leave,08-06-23
+1442,Lerato,Mokoena,,Operations,Analyst,Cape Town,25,22000,Active,07-09-23
+1443,Thabo,Smith,thabo.dlamini@gmail.com,Human Resources,Coordinator,Durban,29,48000,On Leave,18-10-20
+1444, john ,Dlamini,thabo.dlamini@gmail.com,IT,Specialist,Pretoria,41,48000,Active,14-06-22
+1445,John,Jones, john.smith@gmail.com ,Human Resources,Coordinator,Durban,55,15000,Resigned,28-04-23
+1446,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Cape Town,55,22000,On Leave,23-04-18
+1447,Sipho, mokoena ,,Operations,Analyst,Johannesburg,34,22000,On Leave,26-04-20
+1448,John,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Manager,Durban,55,35000,Resigned,11-12-19
+1449,SARAH,Khumalo,,Human Resources,Coordinator,Pretoria,29,62000,On Leave,23-03-22
+1450,John,Dlamini,thabo.dlamini@gmail.com,Operations,Specialist,Bloemfontein,55,62000,On Leave,15-06-22
+1451,Sipho, mokoena ,thabo.dlamini@gmail.com,Marketing,Analyst,Durban,29,35000,Resigned,03-03-21
+1452, john , mokoena , john.smith@gmail.com ,IT,Coordinator,Bloemfontein,-1,22000,Active,05-12-20
+1453,Lerato, mokoena , john.smith@gmail.com ,Customer Support,Coordinator,Johannesburg,55,48000,Resigned,23-09-24
+1454,Lerato,Smith,,Customer Support,Analyst,Bloemfontein,55,62000,Active,28-11-20
+1455, john , mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Pretoria,55,35000,On Leave,06-11-21
+1456,SARAH,Mokoena,,IT,Specialist,Johannesburg,34,22000,On Leave,14-05-21
+1457, john ,Jones,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Johannesburg,25,35000,Active,25-11-20
+1458,Lerato,Khumalo, john.smith@gmail.com ,Human Resources,Manager,Durban,34,15000,Resigned,11-06-21
+1459,SARAH, mokoena ,,Operations,Manager,Johannesburg,34,22000,On Leave,08-08-18
+1460,SARAH, mokoena ,,Operations,Specialist,Pretoria,22,22000,Active,06-05-19
+1461,Sipho,Smith,,Marketing,Coordinator,Durban,-1,22000,Active,31-03-20
+1462,Sipho, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Johannesburg,34,35000,Active,21-06-23
+1463,John,Mokoena,,Finance,Coordinator,Bloemfontein,34,48000,Resigned,22-11-19
+1464,Lerato,Smith,thabo.dlamini@gmail.com,Finance,Manager,Cape Town,55,35000,Active,24-10-22
+1465,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Cape Town,25,35000,Resigned,12-08-21
+1466,Thabo,Smith,,Operations,Specialist,Cape Town,22,15000,Resigned,13-06-19
+1467,Lerato, mokoena ,,Operations,Manager,Durban,34,22000,Resigned,06-04-21
+1468,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Cape Town,25,22000,Active,01-07-23
+1469,John,Jones,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Johannesburg,34,35000,On Leave,31-03-18
+1470,John,Dlamini,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,55,15000,Resigned,19-07-18
+1471,Lerato,Dlamini,,Human Resources,Administrator,Cape Town,25,15000,Resigned,25-12-22
+1472, john ,Dlamini,,Human Resources,Manager,Bloemfontein,55,22000,Resigned,20-09-22
+1473,John, mokoena ,,Finance,Specialist,Johannesburg,-1,15000,Resigned,06-03-19
+1474,John,Mokoena, john.smith@gmail.com ,Operations,Coordinator,Durban,55,48000,Resigned,24-03-20
+1475,Thabo,Jones,,IT,Administrator,Durban,25,15000,Active,19-10-19
+1476,Thabo,Jones,,IT,Analyst,Bloemfontein,22,15000,Resigned,31-12-18
+1477,Lerato,Khumalo, john.smith@gmail.com ,Marketing,Analyst,Johannesburg,-1,22000,Active,04-08-20
+1478,Sipho, mokoena , john.smith@gmail.com ,Marketing,Analyst,Johannesburg,-1,15000,Active,05-04-21
+1479, john , mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Pretoria,41,35000,On Leave,21-07-19
+1480,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Pretoria,34,35000,Resigned,16-01-19
+1481,SARAH,Smith,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Johannesburg,-1,22000,Active,13-05-23
+1482,John,Smith,,Customer Support,Administrator,Cape Town,41,48000,Resigned,01-09-22
+1483,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Johannesburg,34,48000,Active,29-04-18
+1484,Sipho, mokoena , john.smith@gmail.com ,Finance,Manager,Bloemfontein,55,62000,Active,17-09-18
+1485,John,Jones,,Finance,Administrator,Cape Town,34,35000,On Leave,17-10-21
+1486,Nomsa,Jones,,Finance,Analyst,Cape Town,41,48000,Resigned,26-04-22
+1487,Thabo,Smith, john.smith@gmail.com ,IT,Specialist,Durban,22,62000,Active,09-11-19
+1488, john ,Smith,,IT,Analyst,Pretoria,34,62000,Resigned,04-03-24
+1489,SARAH,Smith,,Human Resources,Analyst,Pretoria,55,15000,Active,27-12-18
+1490,Lerato,Dlamini,,Operations,Analyst,Johannesburg,-1,62000,On Leave,11-07-22
+1491,John,Jones,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Durban,29,15000,Active,01-06-21
+1492,Sipho,Jones,,Operations,Administrator,Durban,55,48000,Active,05-02-23
+1493,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Durban,-1,35000,On Leave,04-02-19
+1494,Sipho, mokoena ,thabo.dlamini@gmail.com,Finance,Coordinator,Pretoria,25,48000,Active,09-11-23
+1495,John,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Cape Town,34,22000,On Leave,07-11-20
+1496,Thabo,Smith,thabo.dlamini@gmail.com,Customer Support,Manager,Johannesburg,-1,48000,Resigned,16-10-21
+1497,John,Mokoena,,Finance,Manager,Johannesburg,41,48000,On Leave,10-08-24
+1498,John,Mokoena,,IT,Coordinator,Johannesburg,34,62000,On Leave,02-06-23
+1499,John,Smith,,Operations,Coordinator,Durban,34,35000,Resigned,11-08-21
+1500,SARAH,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Bloemfontein,29,62000,Resigned,29-01-23
+1501, john ,Mokoena,Nomsa.Khumalo@yahoo.com,IT,Manager,Durban,55,35000,On Leave,17-03-24
+1502, john , mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Manager,Durban,55,15000,Resigned,28-06-19
+1503,Lerato,Jones,,Customer Support,Administrator,Bloemfontein,29,48000,Active,22-04-24
+1504,Thabo,Dlamini,,IT,Analyst,Johannesburg,25,35000,Active,12-11-23
+1505, john ,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Cape Town,-1,62000,Active,19-03-21
+1506,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Manager,Cape Town,55,62000,Resigned,09-01-22
+1507,John, mokoena , john.smith@gmail.com ,Customer Support,Analyst,Pretoria,34,48000,On Leave,31-08-20
+1508,John,Dlamini,thabo.dlamini@gmail.com,Customer Support,Specialist,Cape Town,41,48000,Active,04-07-21
+1509,SARAH,Jones,,Customer Support,Manager,Cape Town,-1,22000,Resigned,15-02-22
+1510,Nomsa, mokoena ,thabo.dlamini@gmail.com,IT,Coordinator,Bloemfontein,22,48000,Active,13-01-23
+1511,Sipho,Jones, john.smith@gmail.com ,IT,Coordinator,Bloemfontein,-1,35000,Active,22-10-22
+1512,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Durban,41,15000,On Leave,15-09-21
+1513,Lerato,Jones,,Human Resources,Analyst,Durban,41,22000,Active,18-05-21
+1514,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Bloemfontein,34,15000,Resigned,03-11-23
+1515,Nomsa, mokoena , john.smith@gmail.com ,Human Resources,Specialist,Durban,25,62000,On Leave,25-06-20
+1516,John, mokoena ,thabo.dlamini@gmail.com,Finance,Specialist,Pretoria,25,62000,On Leave,30-04-23
+1517,Thabo, mokoena , john.smith@gmail.com ,Marketing,Analyst,Pretoria,29,62000,On Leave,25-09-20
+1518,Thabo,Jones, john.smith@gmail.com ,Operations,Manager,Pretoria,34,15000,Resigned,04-03-21
+1519,Sipho,Jones,thabo.dlamini@gmail.com,Finance,Coordinator,Bloemfontein,41,15000,On Leave,28-02-20
+1520,Nomsa, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Johannesburg,25,62000,On Leave,26-09-18
+1521, john ,Dlamini,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Durban,22,15000,Active,18-11-22
+1522,Nomsa,Khumalo,,Finance,Manager,Cape Town,29,48000,Resigned,11-08-18
+1523, john ,Smith,,Human Resources,Analyst,Pretoria,55,15000,On Leave,22-01-23
+1524, john , mokoena ,,Finance,Manager,Johannesburg,55,15000,Resigned,25-01-18
+1525,Thabo,Khumalo, john.smith@gmail.com ,Operations,Analyst,Durban,-1,48000,Resigned,22-08-23
+1526,SARAH, mokoena ,thabo.dlamini@gmail.com,Marketing,Coordinator,Bloemfontein,25,22000,On Leave,07-06-22
+1527,SARAH,Jones, john.smith@gmail.com ,Customer Support,Coordinator,Durban,55,35000,Active,21-05-22
+1528,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Johannesburg,41,62000,Resigned,17-03-24
+1529,John,Dlamini, john.smith@gmail.com ,IT,Specialist,Cape Town,34,62000,Active,10-01-24
+1530,Nomsa,Mokoena,,Human Resources,Coordinator,Johannesburg,25,62000,Active,22-10-19
+1531,Lerato, mokoena ,,Finance,Specialist,Johannesburg,29,15000,Active,27-02-24
+1532,Lerato,Khumalo, john.smith@gmail.com ,IT,Coordinator,Johannesburg,29,62000,Active,06-07-24
+1533,Sipho,Smith,,Human Resources,Manager,Durban,55,62000,Active,03-03-20
+1534,John,Khumalo, john.smith@gmail.com ,Marketing,Coordinator,Johannesburg,29,22000,Active,05-05-24
+1535,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Pretoria,34,48000,Resigned,22-11-22
+1536,Lerato,Jones,thabo.dlamini@gmail.com,IT,Manager,Johannesburg,-1,35000,Active,05-06-21
+1537,Nomsa,Khumalo,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,-1,62000,On Leave,16-01-24
+1538,SARAH,Jones,,Marketing,Manager,Cape Town,22,62000,Resigned,08-05-18
+1539,John,Smith,Nomsa.Khumalo@yahoo.com,Human Resources,Administrator,Cape Town,-1,62000,On Leave,05-02-24
+1540,Nomsa,Smith,,Operations,Analyst,Pretoria,29,62000,Active,06-04-21
+1541,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Pretoria,25,22000,On Leave,05-09-20
+1542, john ,Mokoena,,Human Resources,Analyst,Cape Town,-1,48000,Active,06-05-24
+1543,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Bloemfontein,-1,35000,Resigned,15-09-18
+1544,Lerato,Dlamini,thabo.dlamini@gmail.com,Customer Support,Specialist,Johannesburg,55,62000,On Leave,08-04-23
+1545,SARAH, mokoena , john.smith@gmail.com ,Operations,Manager,Bloemfontein,25,48000,On Leave,25-01-21
+1546,Sipho,Jones,thabo.dlamini@gmail.com,Operations,Specialist,Pretoria,25,62000,Resigned,31-03-22
+1547,SARAH,Khumalo,,Marketing,Manager,Johannesburg,41,22000,Resigned,16-12-21
+1548,Nomsa,Dlamini,,Customer Support,Specialist,Cape Town,25,22000,Active,10-11-19
+1549,John, mokoena ,thabo.dlamini@gmail.com,Customer Support,Coordinator,Pretoria,-1,35000,On Leave,23-01-22
+1550,Lerato, mokoena ,,Marketing,Coordinator,Bloemfontein,25,48000,Active,10-04-19
+1551,Thabo,Mokoena,,Operations,Coordinator,Cape Town,55,62000,Active,25-09-20
+1552,Nomsa,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Coordinator,Bloemfontein,34,62000,On Leave,02-06-24
+1553, john , mokoena , john.smith@gmail.com ,Finance,Coordinator,Pretoria,41,48000,Resigned,18-03-18
+1554,Nomsa,Smith,,IT,Manager,Cape Town,41,62000,Resigned,30-11-19
+1555, john , mokoena , john.smith@gmail.com ,Marketing,Manager,Bloemfontein,22,22000,Resigned,18-11-19
+1556,Nomsa,Dlamini,thabo.dlamini@gmail.com,IT,Manager,Bloemfontein,55,48000,Active,28-04-22
+1557,Thabo,Mokoena,,Operations,Manager,Johannesburg,-1,62000,On Leave,16-10-24
+1558,Thabo,Smith,Nomsa.Khumalo@yahoo.com,Operations,Manager,Johannesburg,-1,48000,On Leave,27-04-19
+1559,Sipho,Dlamini,,Marketing,Coordinator,Pretoria,-1,48000,Resigned,20-09-22
+1560,SARAH, mokoena ,,Finance,Administrator,Cape Town,29,48000,Active,09-08-24
+1561,Sipho,Jones,,Marketing,Specialist,Cape Town,22,15000,On Leave,10-12-18
+1562,Thabo,Jones,thabo.dlamini@gmail.com,Marketing,Coordinator,Durban,34,35000,Active,11-11-23
+1563,Lerato, mokoena ,,Human Resources,Specialist,Bloemfontein,34,62000,Resigned,26-09-19
+1564, john ,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Bloemfontein,34,22000,Resigned,02-02-21
+1565,John,Smith, john.smith@gmail.com ,Human Resources,Manager,Durban,-1,48000,On Leave,09-04-24
+1566,SARAH, mokoena ,thabo.dlamini@gmail.com,Customer Support,Coordinator,Pretoria,-1,22000,Active,20-07-19
+1567,John,Smith, john.smith@gmail.com ,Operations,Manager,Johannesburg,25,48000,On Leave,28-05-20
+1568,SARAH,Dlamini,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Pretoria,22,15000,Resigned,22-01-18
+1569,Sipho,Dlamini,,Finance,Administrator,Pretoria,41,62000,Resigned,27-06-20
+1570,Thabo,Mokoena,,Marketing,Analyst,Cape Town,-1,62000,Resigned,13-09-24
+1571,Thabo,Jones,,Operations,Coordinator,Bloemfontein,25,15000,Resigned,08-03-20
+1572, john ,Dlamini,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Pretoria,29,48000,Resigned,06-09-20
+1573,Nomsa,Jones,thabo.dlamini@gmail.com,Customer Support,Analyst,Johannesburg,41,35000,On Leave,28-07-24
+1574,John,Khumalo, john.smith@gmail.com ,Human Resources,Coordinator,Bloemfontein,25,48000,Resigned,09-04-24
+1575,Thabo,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Johannesburg,41,15000,On Leave,12-06-24
+1576,Sipho,Dlamini,,Human Resources,Manager,Bloemfontein,29,48000,Resigned,20-04-21
+1577,Lerato,Mokoena, john.smith@gmail.com ,Marketing,Administrator,Bloemfontein,-1,15000,Resigned,25-04-24
+1578,Sipho,Dlamini,,Customer Support,Coordinator,Cape Town,-1,35000,Resigned,22-04-19
+1579,John,Jones,thabo.dlamini@gmail.com,Customer Support,Specialist,Cape Town,29,15000,Resigned,17-12-21
+1580,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,25,62000,Resigned,01-11-21
+1581, john , mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Coordinator,Cape Town,55,22000,Resigned,19-01-20
+1582,Nomsa,Mokoena,Nomsa.Khumalo@yahoo.com,Operations,Specialist,Cape Town,-1,15000,Active,26-04-20
+1583, john , mokoena ,,Operations,Analyst,Bloemfontein,22,48000,Resigned,18-11-18
+1584,Lerato,Jones, john.smith@gmail.com ,Marketing,Coordinator,Bloemfontein,29,48000,Active,15-07-21
+1585,Nomsa,Dlamini,,Marketing,Administrator,Bloemfontein,22,62000,Resigned,20-06-24
+1586,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Bloemfontein,34,35000,On Leave,01-06-22
+1587,Thabo, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Manager,Johannesburg,29,35000,On Leave,04-02-18
+1588,Nomsa,Jones, john.smith@gmail.com ,IT,Specialist,Pretoria,41,35000,Resigned,29-11-20
+1589,Lerato,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,-1,48000,Resigned,24-01-20
+1590,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Johannesburg,55,35000,Active,21-01-23
+1591,Lerato,Smith,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Pretoria,-1,15000,Active,24-03-24
+1592,Lerato,Mokoena,,Operations,Specialist,Pretoria,29,35000,On Leave,23-09-22
+1593,Thabo,Smith,thabo.dlamini@gmail.com,Customer Support,Coordinator,Johannesburg,25,35000,Resigned,14-05-24
+1594,Lerato, mokoena , john.smith@gmail.com ,Human Resources,Specialist,Durban,41,62000,Resigned,30-01-19
+1595,Thabo,Smith,thabo.dlamini@gmail.com,Human Resources,Manager,Cape Town,41,62000,On Leave,10-11-21
+1596,Nomsa,Khumalo, john.smith@gmail.com ,Human Resources,Manager,Pretoria,-1,48000,Active,15-01-24
+1597,John,Khumalo,,Customer Support,Coordinator,Cape Town,55,35000,Resigned,10-04-22
+1598,Lerato,Dlamini,thabo.dlamini@gmail.com,IT,Specialist,Cape Town,29,35000,On Leave,30-05-24
+1599, john ,Khumalo,,Customer Support,Administrator,Durban,34,35000,On Leave,08-04-21
+1600,John,Smith,,IT,Coordinator,Johannesburg,25,22000,On Leave,01-08-24
+1601, john , mokoena ,thabo.dlamini@gmail.com,IT,Coordinator,Pretoria,22,15000,Active,27-10-20
+1602,John,Dlamini,thabo.dlamini@gmail.com,Marketing,Manager,Johannesburg,22,35000,On Leave,23-04-23
+1603,Thabo, mokoena ,,Human Resources,Coordinator,Cape Town,55,35000,Resigned,29-09-19
+1604,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Durban,-1,35000,Resigned,02-06-19
+1605,SARAH,Jones, john.smith@gmail.com ,Operations,Administrator,Cape Town,55,62000,Active,29-03-23
+1606,John,Smith,,Marketing,Manager,Bloemfontein,29,35000,Resigned,17-08-24
+1607,Nomsa,Dlamini,,Human Resources,Specialist,Pretoria,29,22000,Resigned,20-01-24
+1608,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Pretoria,41,15000,On Leave,13-02-18
+1609,SARAH,Smith, john.smith@gmail.com ,Finance,Administrator,Durban,41,22000,Active,08-07-23
+1610,Sipho,Mokoena,,Operations,Administrator,Pretoria,25,22000,On Leave,24-02-24
+1611,SARAH,Smith,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Pretoria,55,22000,On Leave,16-05-22
+1612,Sipho, mokoena ,,Human Resources,Administrator,Cape Town,-1,15000,Active,18-01-21
+1613,Sipho,Dlamini,,Operations,Administrator,Durban,55,62000,Resigned,14-07-19
+1614,Sipho,Dlamini,Nomsa.Khumalo@yahoo.com,Finance,Manager,Johannesburg,25,15000,Resigned,09-02-20
+1615,Nomsa, mokoena ,,Customer Support,Analyst,Cape Town,22,22000,Active,07-01-21
+1616,Nomsa,Khumalo,,Human Resources,Administrator,Durban,34,15000,Resigned,15-07-23
+1617,SARAH,Mokoena,thabo.dlamini@gmail.com,Human Resources,Administrator,Johannesburg,41,48000,Active,25-11-18
+1618,SARAH,Khumalo,,Finance,Analyst,Cape Town,34,48000,Active,27-02-20
+1619,Nomsa,Smith,thabo.dlamini@gmail.com,Operations,Coordinator,Pretoria,34,35000,Resigned,18-05-18
+1620, john , mokoena ,thabo.dlamini@gmail.com,Customer Support,Manager,Bloemfontein,22,35000,Resigned,12-10-19
+1621,Nomsa,Khumalo,thabo.dlamini@gmail.com,Customer Support,Coordinator,Johannesburg,25,48000,Resigned,08-05-21
+1622,Nomsa,Khumalo,,Finance,Administrator,Cape Town,22,15000,On Leave,03-03-18
+1623, john ,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,25,48000,Active,01-05-23
+1624,SARAH, mokoena ,thabo.dlamini@gmail.com,Finance,Specialist,Cape Town,55,62000,Active,18-10-21
+1625,Lerato,Mokoena, john.smith@gmail.com ,Operations,Specialist,Pretoria,55,22000,Active,31-05-19
+1626,Sipho, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Pretoria,55,48000,On Leave,28-03-22
+1627,John, mokoena ,,IT,Manager,Cape Town,41,35000,Resigned,22-04-21
+1628,Sipho,Jones,,IT,Analyst,Bloemfontein,25,48000,Resigned,03-04-23
+1629,John,Khumalo,,Finance,Manager,Pretoria,55,22000,Active,14-12-20
+1630,SARAH,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Bloemfontein,-1,48000,Active,31-01-22
+1631, john ,Smith,,IT,Manager,Durban,29,48000,On Leave,17-11-23
+1632,Thabo,Dlamini,,Customer Support,Analyst,Johannesburg,-1,22000,Active,12-08-21
+1633,Nomsa,Dlamini,,IT,Analyst,Johannesburg,41,48000,On Leave,09-05-18
+1634,John,Jones,,Human Resources,Analyst,Durban,25,62000,On Leave,30-06-23
+1635,Thabo,Mokoena,,Finance,Administrator,Johannesburg,29,62000,On Leave,18-10-18
+1636,SARAH,Khumalo,thabo.dlamini@gmail.com,Operations,Specialist,Bloemfontein,22,15000,Resigned,31-08-22
+1637,Nomsa,Jones,thabo.dlamini@gmail.com,Finance,Coordinator,Bloemfontein,34,22000,Active,16-11-18
+1638, john ,Mokoena,,Customer Support,Coordinator,Bloemfontein,55,62000,Resigned,26-11-23
+1639,SARAH, mokoena ,,Human Resources,Administrator,Pretoria,22,22000,Active,09-03-19
+1640,Lerato,Jones, john.smith@gmail.com ,Customer Support,Coordinator,Bloemfontein,41,48000,Resigned,02-03-24
+1641,John,Khumalo, john.smith@gmail.com ,Marketing,Administrator,Durban,41,22000,On Leave,14-07-21
+1642,Nomsa,Smith,,Customer Support,Specialist,Durban,34,48000,Resigned,13-02-24
+1643, john ,Dlamini, john.smith@gmail.com ,Operations,Analyst,Bloemfontein,25,35000,Active,01-01-18
+1644,Nomsa,Mokoena, john.smith@gmail.com ,Finance,Specialist,Bloemfontein,41,62000,On Leave,15-05-21
+1645,Nomsa,Dlamini,thabo.dlamini@gmail.com,Marketing,Specialist,Cape Town,25,35000,Resigned,30-05-24
+1646,Nomsa,Mokoena, john.smith@gmail.com ,Human Resources,Analyst,Bloemfontein,34,62000,Active,12-07-24
+1647, john ,Khumalo,,IT,Administrator,Bloemfontein,-1,15000,On Leave,13-11-18
+1648,Thabo, mokoena ,,Marketing,Analyst,Johannesburg,-1,35000,Resigned,15-05-21
+1649,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Johannesburg,55,48000,Active,14-11-22
+1650,John,Dlamini, john.smith@gmail.com ,Operations,Manager,Cape Town,29,62000,On Leave,02-06-21
+1651,Nomsa,Dlamini,,Marketing,Manager,Bloemfontein,41,15000,Active,23-06-20
+1652,Sipho,Smith,Nomsa.Khumalo@yahoo.com,IT,Specialist,Johannesburg,34,62000,On Leave,05-11-22
+1653,John,Smith, john.smith@gmail.com ,Finance,Administrator,Bloemfontein,34,22000,Active,21-07-18
+1654,John,Mokoena,,Marketing,Manager,Cape Town,41,62000,On Leave,24-05-23
+1655,Nomsa,Mokoena,thabo.dlamini@gmail.com,Human Resources,Administrator,Durban,55,62000,Active,18-11-23
+1656, john ,Smith,,Human Resources,Specialist,Cape Town,29,35000,On Leave,06-04-19
+1657,SARAH,Khumalo,Nomsa.Khumalo@yahoo.com,Human Resources,Manager,Pretoria,41,22000,Resigned,10-04-18
+1658,SARAH,Mokoena,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Cape Town,-1,15000,Active,03-07-18
+1659,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Durban,55,15000,Resigned,12-08-18
+1660,Lerato,Dlamini, john.smith@gmail.com ,IT,Manager,Cape Town,25,62000,On Leave,18-01-23
+1661,John,Smith,,Customer Support,Coordinator,Johannesburg,34,62000,On Leave,25-11-20
+1662,Thabo,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Specialist,Cape Town,-1,62000,Resigned,28-11-23
+1663,Lerato, mokoena ,thabo.dlamini@gmail.com,Finance,Administrator,Durban,55,35000,Active,06-08-18
+1664,Sipho, mokoena ,,IT,Administrator,Bloemfontein,55,15000,Resigned,20-03-18
+1665,SARAH,Jones,,Finance,Coordinator,Cape Town,41,48000,On Leave,09-06-23
+1666,Thabo,Mokoena,,Human Resources,Specialist,Pretoria,34,22000,Active,30-03-18
+1667, john ,Khumalo, john.smith@gmail.com ,Customer Support,Specialist,Cape Town,41,35000,Active,21-11-21
+1668,Lerato,Dlamini,,Human Resources,Coordinator,Cape Town,29,48000,On Leave,21-11-20
+1669,Thabo, mokoena ,,Operations,Manager,Cape Town,34,22000,On Leave,17-07-19
+1670,Lerato,Khumalo,,Human Resources,Administrator,Bloemfontein,25,22000,On Leave,18-09-19
+1671,John,Jones,Nomsa.Khumalo@yahoo.com,IT,Specialist,Bloemfontein,25,48000,Active,22-07-19
+1672,Nomsa,Khumalo,thabo.dlamini@gmail.com,Operations,Manager,Johannesburg,25,35000,Active,02-05-24
+1673,SARAH,Khumalo,,Marketing,Specialist,Pretoria,55,35000,Active,01-05-18
+1674,Thabo,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Manager,Bloemfontein,29,62000,On Leave,09-02-20
+1675,John,Mokoena,Nomsa.Khumalo@yahoo.com,Customer Support,Analyst,Durban,22,48000,Active,03-08-20
+1676,SARAH,Jones,,Customer Support,Specialist,Cape Town,-1,48000,Resigned,20-08-23
+1677,Nomsa,Mokoena,Nomsa.Khumalo@yahoo.com,IT,Analyst,Pretoria,-1,15000,Resigned,25-04-23
+1678,Nomsa, mokoena ,Nomsa.Khumalo@yahoo.com,IT,Analyst,Cape Town,34,62000,Resigned,19-08-22
+1679,SARAH,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Johannesburg,41,48000,On Leave,23-08-21
+1680,Lerato,Jones,,Operations,Manager,Bloemfontein,55,15000,On Leave,05-07-21
+1681,Lerato,Smith,thabo.dlamini@gmail.com,IT,Manager,Bloemfontein,34,15000,On Leave,24-03-19
+1682,John, mokoena ,thabo.dlamini@gmail.com,IT,Specialist,Pretoria,34,35000,Resigned,06-05-22
+1683,Nomsa,Smith, john.smith@gmail.com ,Operations,Analyst,Bloemfontein,25,48000,On Leave,05-03-23
+1684,Thabo, mokoena ,,Finance,Coordinator,Bloemfontein,55,62000,Active,25-01-23
+1685,Lerato,Khumalo,,Finance,Coordinator,Pretoria,41,22000,Resigned,30-05-22
+1686,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Analyst,Johannesburg,22,48000,On Leave,05-01-19
+1687,Thabo,Jones,,Customer Support,Manager,Bloemfontein,25,48000,On Leave,26-01-22
+1688,Thabo,Mokoena, john.smith@gmail.com ,Operations,Coordinator,Cape Town,-1,22000,Active,08-04-22
+1689,Lerato,Khumalo, john.smith@gmail.com ,Customer Support,Administrator,Durban,55,22000,Active,30-07-18
+1690,Nomsa,Dlamini,,Human Resources,Analyst,Pretoria,34,48000,On Leave,23-06-19
+1691,John,Smith,Nomsa.Khumalo@yahoo.com,IT,Manager,Pretoria,34,48000,Resigned,24-01-18
+1692,John,Jones,thabo.dlamini@gmail.com,IT,Manager,Durban,41,62000,Active,22-11-18
+1693,Nomsa,Mokoena,thabo.dlamini@gmail.com,Customer Support,Specialist,Johannesburg,25,15000,On Leave,20-07-18
+1694,SARAH,Jones, john.smith@gmail.com ,Human Resources,Analyst,Johannesburg,22,48000,Active,25-06-24
+1695, john ,Khumalo,,Customer Support,Manager,Bloemfontein,-1,62000,Active,23-10-19
+1696, john ,Jones, john.smith@gmail.com ,Finance,Analyst,Durban,29,35000,Resigned,09-02-23
+1697,SARAH,Smith,,Finance,Specialist,Pretoria,25,15000,On Leave,05-10-18
+1698,Sipho,Jones,,Operations,Coordinator,Cape Town,41,15000,Active,29-01-21
+1699, john , mokoena ,,Finance,Administrator,Bloemfontein,-1,35000,Resigned,29-05-24
+1700,SARAH,Khumalo, john.smith@gmail.com ,Operations,Manager,Bloemfontein,29,22000,On Leave,29-10-24
+1701,Lerato,Jones,,Marketing,Coordinator,Bloemfontein,25,35000,Active,23-04-24
+1702,Thabo,Dlamini,,Customer Support,Analyst,Cape Town,-1,62000,Resigned,07-01-18
+1703,Thabo,Khumalo, john.smith@gmail.com ,Operations,Coordinator,Johannesburg,55,22000,On Leave,23-08-22
+1704,Sipho,Dlamini, john.smith@gmail.com ,Human Resources,Manager,Bloemfontein,29,15000,Active,27-02-21
+1705,Sipho,Smith,,Operations,Analyst,Cape Town,25,35000,Resigned,27-09-21
+1706,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Marketing,Coordinator,Pretoria,-1,62000,Resigned,17-05-23
+1707,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Specialist,Bloemfontein,55,35000,On Leave,10-03-23
+1708,Thabo,Mokoena,,Customer Support,Specialist,Durban,22,22000,Resigned,04-01-24
+1709,Sipho,Smith,,IT,Manager,Bloemfontein,34,22000,On Leave,08-05-18
+1710,SARAH,Khumalo, john.smith@gmail.com ,Customer Support,Analyst,Durban,34,15000,Resigned,24-04-19
+1711,Sipho,Smith, john.smith@gmail.com ,IT,Manager,Durban,25,15000,Resigned,31-08-20
+1712,SARAH,Mokoena,thabo.dlamini@gmail.com,Marketing,Manager,Johannesburg,-1,48000,On Leave,03-06-18
+1713,Nomsa,Khumalo,,Customer Support,Manager,Durban,-1,35000,Active,24-09-19
+1714,SARAH,Jones,Nomsa.Khumalo@yahoo.com,IT,Analyst,Pretoria,34,62000,Active,07-02-19
+1715,Sipho,Dlamini,,Finance,Specialist,Pretoria,22,15000,On Leave,17-01-18
+1716,Thabo,Jones, john.smith@gmail.com ,Customer Support,Coordinator,Durban,25,22000,Resigned,03-07-21
+1717,John,Khumalo,,Customer Support,Analyst,Durban,25,22000,Resigned,07-02-21
+1718,Thabo,Jones,,Operations,Analyst,Cape Town,41,35000,On Leave,14-04-19
+1719,Sipho,Mokoena, john.smith@gmail.com ,Operations,Coordinator,Cape Town,22,35000,On Leave,28-07-21
+1720,John,Smith,thabo.dlamini@gmail.com,IT,Analyst,Pretoria,55,15000,Active,19-10-21
+1721,Thabo,Dlamini,,Marketing,Coordinator,Bloemfontein,41,48000,On Leave,21-04-22
+1722,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Johannesburg,-1,48000,On Leave,27-12-21
+1723,Thabo, mokoena ,,Finance,Administrator,Durban,55,48000,Resigned,24-06-19
+1724,Nomsa,Mokoena,,Human Resources,Specialist,Pretoria,25,35000,Resigned,07-08-20
+1725,Lerato,Dlamini,thabo.dlamini@gmail.com,Marketing,Analyst,Durban,34,48000,Active,31-01-23
+1726,SARAH,Khumalo,,Operations,Coordinator,Bloemfontein,22,48000,On Leave,02-03-21
+1727,Sipho,Jones,thabo.dlamini@gmail.com,Human Resources,Manager,Pretoria,34,62000,Resigned,15-03-19
+1728,John,Mokoena,,IT,Administrator,Pretoria,22,35000,Active,04-09-20
+1729,Lerato,Smith,,Human Resources,Manager,Cape Town,25,15000,On Leave,17-08-24
+1730,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Manager,Pretoria,29,62000,Active,09-06-24
+1731,Nomsa,Khumalo,,Finance,Manager,Johannesburg,55,62000,Resigned,29-12-22
+1732,Lerato, mokoena ,thabo.dlamini@gmail.com,Finance,Coordinator,Cape Town,41,15000,Active,03-09-21
+1733,Lerato,Jones, john.smith@gmail.com ,Marketing,Manager,Bloemfontein,34,22000,Active,04-09-19
+1734,Sipho,Jones, john.smith@gmail.com ,Marketing,Specialist,Johannesburg,41,15000,On Leave,20-07-21
+1735,Lerato,Mokoena, john.smith@gmail.com ,Finance,Specialist,Bloemfontein,22,15000,On Leave,22-09-23
+1736,SARAH,Khumalo,thabo.dlamini@gmail.com,Human Resources,Analyst,Cape Town,34,62000,Resigned,12-04-24
+1737, john ,Smith,,Marketing,Administrator,Bloemfontein,25,22000,Resigned,27-07-21
+1738,Nomsa,Jones,,Human Resources,Administrator,Cape Town,29,22000,Active,24-07-19
+1739,Thabo, mokoena ,thabo.dlamini@gmail.com,IT,Administrator,Pretoria,25,15000,Active,17-02-18
+1740,SARAH,Smith,,Marketing,Manager,Cape Town,34,62000,Resigned,31-08-22
+1741,SARAH,Smith,,Human Resources,Coordinator,Cape Town,34,62000,Active,11-03-24
+1742,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Durban,34,62000,On Leave,25-06-24
+1743,Thabo,Dlamini,,Marketing,Specialist,Johannesburg,41,48000,On Leave,12-02-22
+1744,Nomsa, mokoena ,,Human Resources,Administrator,Bloemfontein,22,62000,On Leave,24-11-18
+1745,Nomsa,Smith,thabo.dlamini@gmail.com,Customer Support,Manager,Bloemfontein,29,62000,Active,29-12-18
+1746,John,Dlamini,,Marketing,Manager,Pretoria,41,35000,Resigned,08-11-21
+1747,SARAH,Khumalo, john.smith@gmail.com ,IT,Analyst,Bloemfontein,55,35000,On Leave,16-12-21
+1748,Sipho,Dlamini,,Operations,Coordinator,Bloemfontein,22,35000,On Leave,27-04-24
+1749,Sipho,Smith,thabo.dlamini@gmail.com,IT,Manager,Johannesburg,-1,35000,Resigned,22-04-18
+1750,John,Khumalo, john.smith@gmail.com ,Human Resources,Analyst,Johannesburg,41,22000,On Leave,27-06-19
+1751, john ,Smith, john.smith@gmail.com ,IT,Specialist,Cape Town,34,22000,On Leave,12-09-19
+1752,Sipho,Dlamini,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Pretoria,-1,48000,Resigned,16-05-18
+1753, john ,Smith,Nomsa.Khumalo@yahoo.com,IT,Manager,Durban,22,35000,Active,01-09-20
+1754,Nomsa,Smith,,Marketing,Specialist,Pretoria,55,62000,Active,04-08-18
+1755, john , mokoena ,,Marketing,Specialist,Cape Town,41,48000,Active,05-04-22
+1756,SARAH,Smith,,Customer Support,Specialist,Bloemfontein,55,15000,Active,28-03-21
+1757, john ,Khumalo,,Operations,Specialist,Durban,29,35000,Active,17-12-23
+1758, john ,Jones,,Marketing,Coordinator,Bloemfontein,-1,22000,On Leave,11-11-20
+1759, john , mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Manager,Johannesburg,55,15000,Active,14-10-21
+1760,Lerato,Dlamini,,Finance,Administrator,Durban,25,35000,Resigned,18-02-18
+1761,Thabo,Dlamini,,Finance,Analyst,Bloemfontein,55,22000,On Leave,01-03-20
+1762, john ,Dlamini,thabo.dlamini@gmail.com,Operations,Coordinator,Pretoria,55,62000,Active,14-05-19
+1763, john ,Mokoena, john.smith@gmail.com ,Human Resources,Administrator,Johannesburg,55,48000,Resigned,31-03-19
+1764, john , mokoena , john.smith@gmail.com ,Human Resources,Coordinator,Johannesburg,29,15000,Resigned,15-10-22
+1765,Sipho,Dlamini, john.smith@gmail.com ,Human Resources,Coordinator,Pretoria,22,48000,Active,11-05-22
+1766,Lerato,Mokoena,,Finance,Coordinator,Bloemfontein,-1,48000,Active,04-11-24
+1767,Lerato, mokoena , john.smith@gmail.com ,Finance,Analyst,Johannesburg,22,62000,On Leave,12-03-19
+1768,SARAH,Smith,thabo.dlamini@gmail.com,Marketing,Coordinator,Johannesburg,22,48000,Resigned,23-10-20
+1769, john ,Khumalo,,Operations,Analyst,Bloemfontein,55,48000,Resigned,13-09-19
+1770,Lerato, mokoena ,thabo.dlamini@gmail.com,Operations,Coordinator,Johannesburg,34,48000,Active,22-11-22
+1771,John,Khumalo, john.smith@gmail.com ,Customer Support,Specialist,Pretoria,22,15000,Resigned,12-05-24
+1772,SARAH,Khumalo,thabo.dlamini@gmail.com,Marketing,Specialist,Cape Town,25,62000,Active,30-12-23
+1773, john ,Mokoena, john.smith@gmail.com ,Customer Support,Administrator,Johannesburg,55,35000,Resigned,23-04-22
+1774, john ,Smith,Nomsa.Khumalo@yahoo.com,IT,Analyst,Cape Town,22,62000,Active,14-12-18
+1775,Lerato,Dlamini,,Customer Support,Specialist,Pretoria,41,48000,Active,27-06-23
+1776,Sipho,Dlamini, john.smith@gmail.com ,Customer Support,Analyst,Pretoria,22,22000,On Leave,01-06-18
+1777,Lerato, mokoena ,,IT,Manager,Cape Town,22,15000,On Leave,13-11-23
+1778,Lerato, mokoena ,thabo.dlamini@gmail.com,Marketing,Manager,Johannesburg,25,22000,Active,03-08-19
+1779, john ,Dlamini, john.smith@gmail.com ,Finance,Administrator,Bloemfontein,25,62000,Active,07-12-19
+1780,Thabo,Smith,,Operations,Coordinator,Johannesburg,-1,22000,Resigned,12-03-19
+1781,SARAH, mokoena ,,Human Resources,Analyst,Bloemfontein,41,22000,Resigned,13-10-21
+1782,SARAH,Dlamini,,IT,Specialist,Johannesburg,22,35000,Active,23-05-20
+1783,Nomsa, mokoena , john.smith@gmail.com ,Operations,Coordinator,Pretoria,25,62000,Active,28-08-22
+1784,Thabo, mokoena ,,Marketing,Coordinator,Johannesburg,34,15000,Active,01-07-19
+1785,Nomsa,Dlamini,,Human Resources,Administrator,Pretoria,55,22000,Active,30-01-18
+1786, john ,Khumalo,,Marketing,Administrator,Cape Town,25,62000,On Leave,10-08-19
+1787,John,Mokoena,,Operations,Analyst,Durban,29,48000,Active,04-06-18
+1788,Nomsa,Mokoena,thabo.dlamini@gmail.com,Operations,Analyst,Bloemfontein,29,62000,On Leave,03-04-24
+1789,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,22,22000,On Leave,17-06-20
+1790,Lerato,Mokoena,Nomsa.Khumalo@yahoo.com,Customer Support,Analyst,Johannesburg,55,35000,Resigned,28-04-23
+1791,Lerato,Khumalo, john.smith@gmail.com ,Operations,Administrator,Johannesburg,22,15000,On Leave,08-05-20
+1792,Nomsa,Dlamini,,Operations,Analyst,Johannesburg,25,48000,On Leave,22-12-19
+1793,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Cape Town,-1,15000,Resigned,02-07-24
+1794,Thabo,Mokoena,,IT,Administrator,Cape Town,22,48000,On Leave,21-07-20
+1795,Thabo,Smith,Nomsa.Khumalo@yahoo.com,IT,Manager,Pretoria,25,48000,Resigned,08-06-23
+1796,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Durban,25,35000,Active,13-07-19
+1797, john ,Jones,thabo.dlamini@gmail.com,Human Resources,Coordinator,Johannesburg,-1,48000,Resigned,12-05-18
+1798,Nomsa,Khumalo,Nomsa.Khumalo@yahoo.com,Human Resources,Manager,Cape Town,-1,62000,Active,10-09-22
+1799,John,Mokoena,thabo.dlamini@gmail.com,Marketing,Manager,Pretoria,-1,22000,On Leave,25-06-24
+1800,SARAH,Smith, john.smith@gmail.com ,Finance,Administrator,Cape Town,25,35000,Resigned,24-04-23
+1801,Nomsa,Jones,Nomsa.Khumalo@yahoo.com,Operations,Analyst,Pretoria,22,15000,Resigned,01-07-24
+1802,Thabo,Smith,,Marketing,Administrator,Johannesburg,34,48000,Active,28-08-23
+1803,John,Dlamini,,IT,Coordinator,Durban,29,22000,On Leave,07-12-18
+1804,Thabo,Smith, john.smith@gmail.com ,IT,Administrator,Bloemfontein,55,62000,Active,07-01-19
+1805,Lerato,Mokoena,,IT,Specialist,Pretoria,55,15000,On Leave,07-02-23
+1806,Lerato, mokoena , john.smith@gmail.com ,Operations,Analyst,Durban,34,35000,On Leave,17-10-18
+1807,John,Mokoena,thabo.dlamini@gmail.com,Operations,Specialist,Johannesburg,41,35000,Active,31-01-24
+1808,Lerato,Khumalo,,Operations,Analyst,Durban,29,22000,On Leave,31-03-19
+1809, john ,Dlamini,,Customer Support,Coordinator,Cape Town,29,22000,On Leave,07-04-24
+1810, john ,Smith,,Customer Support,Coordinator,Cape Town,29,35000,Resigned,11-04-19
+1811, john ,Smith, john.smith@gmail.com ,Finance,Analyst,Durban,29,48000,Resigned,25-08-23
+1812,John,Dlamini,,Customer Support,Manager,Bloemfontein,29,48000,On Leave,16-08-23
+1813,SARAH, mokoena ,thabo.dlamini@gmail.com,IT,Administrator,Johannesburg,22,48000,Active,16-02-22
+1814,Thabo,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,34,22000,Active,27-03-21
+1815, john ,Dlamini, john.smith@gmail.com ,Marketing,Manager,Cape Town,34,35000,Resigned,03-11-23
+1816, john , mokoena ,thabo.dlamini@gmail.com,Human Resources,Coordinator,Johannesburg,22,22000,On Leave,24-12-22
+1817,Lerato,Jones, john.smith@gmail.com ,Customer Support,Specialist,Pretoria,41,62000,On Leave,07-10-21
+1818,Lerato,Khumalo,,IT,Specialist,Cape Town,-1,35000,Active,29-12-22
+1819,Sipho,Khumalo,thabo.dlamini@gmail.com,IT,Specialist,Durban,34,22000,On Leave,07-06-23
+1820, john ,Jones, john.smith@gmail.com ,IT,Coordinator,Cape Town,25,22000,Active,21-10-19
+1821,Sipho,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,25,22000,On Leave,18-06-18
+1822, john ,Khumalo, john.smith@gmail.com ,IT,Specialist,Pretoria,41,22000,On Leave,23-05-18
+1823,Thabo,Dlamini,,Marketing,Coordinator,Pretoria,29,22000,Active,20-05-21
+1824,John,Khumalo, john.smith@gmail.com ,Marketing,Specialist,Bloemfontein,55,22000,On Leave,16-02-24
+1825,Sipho, mokoena ,thabo.dlamini@gmail.com,Customer Support,Administrator,Johannesburg,25,62000,Active,16-12-22
+1826,Thabo,Smith,,IT,Administrator,Durban,22,35000,Active,15-06-21
+1827, john ,Mokoena,,Operations,Coordinator,Durban,25,15000,Active,26-10-24
+1828,SARAH,Smith,thabo.dlamini@gmail.com,Operations,Administrator,Cape Town,34,35000,On Leave,15-01-24
+1829,John,Dlamini, john.smith@gmail.com ,Marketing,Coordinator,Pretoria,29,48000,Resigned,14-10-24
+1830,Sipho,Khumalo, john.smith@gmail.com ,Human Resources,Administrator,Bloemfontein,22,22000,On Leave,19-02-18
+1831, john ,Smith,,Human Resources,Coordinator,Pretoria,55,48000,Active,25-12-22
+1832,John,Dlamini,Nomsa.Khumalo@yahoo.com,IT,Specialist,Pretoria,-1,62000,Resigned,02-08-24
+1833,John,Smith,thabo.dlamini@gmail.com,Finance,Administrator,Durban,34,22000,On Leave,28-09-18
+1834, john ,Jones,Nomsa.Khumalo@yahoo.com,IT,Coordinator,Pretoria,29,62000,Resigned,08-03-23
+1835,SARAH,Khumalo,,Human Resources,Administrator,Bloemfontein,55,48000,Active,22-06-18
+1836,SARAH,Dlamini,Nomsa.Khumalo@yahoo.com,Human Resources,Specialist,Pretoria,22,35000,Resigned,20-04-18
+1837,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Durban,34,15000,On Leave,05-01-20
+1838,John,Smith,,Marketing,Specialist,Pretoria,55,15000,Resigned,21-01-22
+1839, john ,Jones,thabo.dlamini@gmail.com,Human Resources,Coordinator,Bloemfontein,22,22000,Resigned,01-10-23
+1840, john ,Mokoena, john.smith@gmail.com ,IT,Analyst,Durban,29,48000,On Leave,04-03-23
+1841,Thabo,Khumalo, john.smith@gmail.com ,Operations,Analyst,Bloemfontein,25,22000,Active,29-12-21
+1842,SARAH,Mokoena,,Human Resources,Specialist,Durban,29,35000,Active,18-09-24
+1843,John,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Bloemfontein,29,35000,Resigned,29-12-23
+1844,Sipho,Mokoena,thabo.dlamini@gmail.com,IT,Coordinator,Bloemfontein,25,22000,On Leave,15-08-22
+1845,SARAH,Jones,,Customer Support,Analyst,Pretoria,34,15000,Active,24-11-23
+1846,Thabo,Smith, john.smith@gmail.com ,Human Resources,Specialist,Cape Town,-1,48000,On Leave,22-06-19
+1847,SARAH,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Specialist,Johannesburg,55,15000,Active,13-11-23
+1848,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Coordinator,Durban,25,22000,Active,12-06-19
+1849,Lerato, mokoena ,thabo.dlamini@gmail.com,Finance,Analyst,Pretoria,-1,48000,Active,18-11-18
+1850,Thabo,Dlamini,,Operations,Analyst,Pretoria,22,35000,Active,15-03-20
+1851,Sipho, mokoena ,thabo.dlamini@gmail.com,Finance,Analyst,Bloemfontein,25,62000,Active,29-09-18
+1852, john ,Khumalo,thabo.dlamini@gmail.com,Finance,Coordinator,Durban,41,35000,Resigned,27-01-20
+1853,SARAH,Jones,,IT,Manager,Bloemfontein,22,15000,On Leave,20-10-19
+1854,John,Mokoena,Nomsa.Khumalo@yahoo.com,Human Resources,Coordinator,Bloemfontein,22,15000,Active,27-02-18
+1855,SARAH, mokoena ,,Human Resources,Manager,Cape Town,34,15000,Active,28-08-23
+1856,Lerato,Smith,Nomsa.Khumalo@yahoo.com,Operations,Coordinator,Pretoria,22,35000,Active,24-12-21
+1857,Thabo,Jones,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,41,15000,Active,24-03-23
+1858,Lerato,Dlamini,,Human Resources,Administrator,Bloemfontein,55,35000,On Leave,05-09-21
+1859,Nomsa,Jones,,Human Resources,Administrator,Cape Town,-1,15000,Resigned,24-12-22
+1860,Nomsa,Dlamini,,Customer Support,Analyst,Pretoria,34,62000,On Leave,14-02-22
+1861,Thabo,Mokoena,,Marketing,Manager,Johannesburg,55,22000,Active,15-12-18
+1862,Nomsa,Khumalo,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Johannesburg,25,48000,On Leave,29-01-22
+1863,Sipho, mokoena ,,Operations,Specialist,Pretoria,29,48000,On Leave,07-08-23
+1864,Lerato,Smith,,Human Resources,Coordinator,Pretoria,22,15000,Resigned,06-10-24
+1865,Lerato,Mokoena,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Johannesburg,-1,15000,Resigned,28-06-23
+1866,Nomsa,Smith,,Customer Support,Specialist,Cape Town,29,62000,On Leave,20-04-18
+1867,SARAH,Dlamini,,Marketing,Administrator,Cape Town,29,48000,Resigned,30-01-19
+1868,Sipho,Jones, john.smith@gmail.com ,Operations,Manager,Johannesburg,-1,15000,Resigned,30-08-23
+1869,Lerato,Smith, john.smith@gmail.com ,Marketing,Administrator,Pretoria,22,15000,Active,03-05-19
+1870, john ,Khumalo,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Cape Town,29,48000,Resigned,30-03-24
+1871,John, mokoena ,,Customer Support,Manager,Bloemfontein,41,48000,Resigned,25-03-19
+1872,SARAH,Mokoena,,Finance,Administrator,Durban,34,62000,Resigned,21-04-24
+1873,SARAH,Khumalo, john.smith@gmail.com ,Finance,Analyst,Bloemfontein,22,22000,Resigned,15-12-21
+1874,SARAH, mokoena ,,Finance,Specialist,Pretoria,22,48000,Resigned,29-11-21
+1875,Lerato,Khumalo,thabo.dlamini@gmail.com,Customer Support,Coordinator,Cape Town,25,35000,On Leave,03-01-22
+1876, john ,Dlamini, john.smith@gmail.com ,Finance,Specialist,Cape Town,22,62000,Resigned,14-12-18
+1877,Lerato, mokoena ,,Operations,Manager,Pretoria,29,15000,On Leave,03-06-18
+1878,John,Dlamini, john.smith@gmail.com ,Marketing,Manager,Pretoria,29,62000,Active,08-04-23
+1879,Thabo, mokoena ,Nomsa.Khumalo@yahoo.com,Human Resources,Administrator,Bloemfontein,-1,35000,Active,24-06-23
+1880,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Analyst,Bloemfontein,25,35000,Resigned,11-05-21
+1881,Sipho,Jones,,IT,Manager,Johannesburg,55,62000,Active,14-07-18
+1882,Sipho,Khumalo,thabo.dlamini@gmail.com,Operations,Manager,Pretoria,34,22000,Resigned,21-08-24
+1883, john ,Khumalo,,Human Resources,Administrator,Bloemfontein,29,22000,Resigned,11-11-18
+1884,Sipho,Jones,,Marketing,Manager,Cape Town,22,62000,Active,06-07-22
+1885,Lerato,Mokoena,,Human Resources,Manager,Bloemfontein,-1,48000,On Leave,20-06-24
+1886,John,Mokoena, john.smith@gmail.com ,Marketing,Coordinator,Cape Town,25,35000,Resigned,03-09-18
+1887,Sipho,Dlamini,Nomsa.Khumalo@yahoo.com,Marketing,Specialist,Durban,55,22000,Resigned,08-08-22
+1888,Nomsa,Smith,Nomsa.Khumalo@yahoo.com,Finance,Coordinator,Cape Town,22,22000,Resigned,28-09-24
+1889,Lerato,Jones,,Marketing,Analyst,Cape Town,25,35000,Active,17-03-23
+1890,Sipho,Khumalo,,IT,Analyst,Pretoria,-1,15000,Active,30-04-18
+1891,Sipho,Jones, john.smith@gmail.com ,Finance,Administrator,Durban,55,15000,Resigned,10-12-18
+1892,Nomsa,Dlamini,,Customer Support,Manager,Johannesburg,41,62000,On Leave,30-07-19
+1893,Lerato,Dlamini,Nomsa.Khumalo@yahoo.com,Operations,Analyst,Durban,29,62000,On Leave,28-10-20
+1894,SARAH, mokoena ,Nomsa.Khumalo@yahoo.com,Marketing,Coordinator,Cape Town,22,22000,Active,17-05-22
+1895,Lerato,Smith, john.smith@gmail.com ,Operations,Analyst,Pretoria,41,35000,On Leave,29-01-21
+1896,Sipho,Jones,,Marketing,Coordinator,Durban,-1,22000,Resigned,08-04-19
+1897, john ,Khumalo, john.smith@gmail.com ,Finance,Manager,Johannesburg,-1,15000,On Leave,01-05-23
+1898,Sipho,Jones,,Human Resources,Specialist,Johannesburg,41,22000,Resigned,08-09-20
+1899,Thabo,Smith, john.smith@gmail.com ,Human Resources,Analyst,Cape Town,29,22000,Active,11-05-22
+1900, john ,Khumalo,,Finance,Specialist,Johannesburg,-1,48000,Resigned,03-12-22
+1901,SARAH,Khumalo,,Finance,Coordinator,Durban,41,15000,Resigned,19-08-22
+1902,John, mokoena ,,Customer Support,Specialist,Pretoria,55,15000,Active,20-09-22
+1903, john ,Smith,Nomsa.Khumalo@yahoo.com,Finance,Administrator,Cape Town,55,35000,Resigned,23-01-20
+1904,Thabo,Dlamini,Nomsa.Khumalo@yahoo.com,IT,Manager,Cape Town,-1,62000,On Leave,16-06-24
+1905,SARAH,Khumalo,,Marketing,Coordinator,Durban,25,62000,Resigned,08-08-22
+1906,Nomsa,Dlamini,,Human Resources,Coordinator,Pretoria,34,62000,Active,28-02-21
+1907,Thabo,Jones,,Customer Support,Coordinator,Johannesburg,34,22000,Resigned,26-03-18
+1908,Thabo,Smith,,Marketing,Manager,Durban,25,15000,Resigned,23-11-19
+1909,John,Dlamini,thabo.dlamini@gmail.com,Customer Support,Manager,Pretoria,-1,48000,On Leave,28-11-19
+1910,Thabo,Mokoena,Nomsa.Khumalo@yahoo.com,IT,Specialist,Durban,55,48000,Resigned,18-07-23
+1911,Lerato,Mokoena,,IT,Specialist,Cape Town,34,22000,Resigned,18-06-19
+1912,Thabo,Khumalo, john.smith@gmail.com ,IT,Manager,Pretoria,25,35000,On Leave,21-08-19
+1913,Thabo,Dlamini,,IT,Specialist,Pretoria,55,22000,On Leave,20-02-23
+1914, john ,Smith,,Human Resources,Analyst,Johannesburg,41,15000,Active,20-04-22
+1915,Nomsa,Smith, john.smith@gmail.com ,Operations,Manager,Johannesburg,22,35000,On Leave,25-09-21
+1916,Sipho,Smith, john.smith@gmail.com ,IT,Manager,Johannesburg,41,22000,Resigned,10-04-22
+1917,John,Smith, john.smith@gmail.com ,Marketing,Coordinator,Johannesburg,29,62000,Resigned,27-11-19
+1918,Sipho,Dlamini, john.smith@gmail.com ,Finance,Coordinator,Pretoria,-1,35000,On Leave,04-08-19
+1919,Lerato,Khumalo, john.smith@gmail.com ,Operations,Specialist,Bloemfontein,29,48000,Active,16-01-22
+1920, john ,Smith,Nomsa.Khumalo@yahoo.com,Operations,Administrator,Johannesburg,25,22000,Active,16-07-21
+1921,Nomsa,Dlamini,,Human Resources,Coordinator,Pretoria,34,15000,Resigned,30-07-20
+1922,Lerato,Khumalo,,Marketing,Administrator,Pretoria,22,22000,Active,17-06-18
+1923,Thabo,Mokoena, john.smith@gmail.com ,IT,Coordinator,Bloemfontein,-1,35000,On Leave,02-12-21
+1924,Nomsa,Jones,thabo.dlamini@gmail.com,Operations,Manager,Cape Town,34,15000,Active,26-07-24
+1925, john ,Dlamini, john.smith@gmail.com ,Finance,Specialist,Johannesburg,34,35000,On Leave,03-08-23
+1926,SARAH,Khumalo,Nomsa.Khumalo@yahoo.com,Finance,Analyst,Pretoria,-1,48000,Resigned,11-03-19
+1927,John, mokoena ,thabo.dlamini@gmail.com,Human Resources,Analyst,Bloemfontein,34,35000,On Leave,08-01-21
+1928,Nomsa,Mokoena,thabo.dlamini@gmail.com,Customer Support,Specialist,Durban,-1,15000,On Leave,20-05-24
+1929,John,Jones,,Finance,Administrator,Durban,25,22000,Resigned,17-10-18
+1930,Thabo,Mokoena,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Durban,55,22000,Active,01-01-19
+1931,Lerato,Smith, john.smith@gmail.com ,Customer Support,Manager,Cape Town,29,15000,Resigned,07-05-21
+1932,Nomsa,Smith,,Marketing,Administrator,Durban,41,62000,Resigned,01-10-23
+1933,SARAH,Smith, john.smith@gmail.com ,Operations,Coordinator,Pretoria,55,48000,Active,05-01-19
+1934,John,Khumalo,,Customer Support,Coordinator,Cape Town,34,62000,On Leave,15-06-18
+1935,Thabo,Khumalo,,Marketing,Analyst,Pretoria,29,22000,Active,20-11-23
+1936,SARAH,Mokoena,,Marketing,Specialist,Bloemfontein,22,62000,Active,15-05-21
+1937,John,Dlamini,,Marketing,Administrator,Johannesburg,34,62000,Resigned,04-07-18
+1938,Sipho,Jones,thabo.dlamini@gmail.com,Operations,Analyst,Johannesburg,55,48000,Active,26-12-21
+1939,SARAH,Smith,thabo.dlamini@gmail.com,Finance,Administrator,Durban,29,62000,On Leave,17-01-20
+1940,SARAH, mokoena ,,Operations,Specialist,Durban,-1,22000,Active,07-02-23
+1941,Thabo, mokoena ,,Human Resources,Analyst,Pretoria,41,15000,Active,29-01-20
+1942,Thabo,Dlamini,Nomsa.Khumalo@yahoo.com,Customer Support,Administrator,Pretoria,55,48000,On Leave,06-06-22
+1943, john ,Smith, john.smith@gmail.com ,Operations,Manager,Durban,55,48000,Resigned,01-10-24
+1944,Nomsa,Mokoena,thabo.dlamini@gmail.com,IT,Analyst,Johannesburg,55,22000,Active,25-12-18
+1945,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Customer Support,Coordinator,Pretoria,-1,62000,Active,07-05-20
+1946,Sipho,Smith,Nomsa.Khumalo@yahoo.com,Marketing,Administrator,Johannesburg,22,22000,Active,19-12-18
+1947,Lerato,Smith,thabo.dlamini@gmail.com,Marketing,Manager,Cape Town,25,35000,On Leave,29-12-22
+1948,Thabo,Khumalo,thabo.dlamini@gmail.com,Finance,Administrator,Pretoria,-1,48000,On Leave,24-05-22
+1949,John, mokoena ,,Human Resources,Analyst,Pretoria,34,48000,On Leave,28-06-24
+1950, john ,Jones,,IT,Analyst,Bloemfontein,22,48000,On Leave,17-08-24
+1951,John,Dlamini, john.smith@gmail.com ,Customer Support,Administrator,Pretoria,22,48000,On Leave,17-07-21
+1952,Lerato, mokoena ,,Finance,Coordinator,Durban,55,22000,Resigned,21-11-21
+1953,Lerato,Mokoena,,IT,Manager,Durban,41,48000,Active,09-11-21
+1954, john , mokoena ,,Marketing,Specialist,Pretoria,-1,22000,On Leave,16-04-21
+1955,Sipho, mokoena ,thabo.dlamini@gmail.com,Customer Support,Administrator,Cape Town,25,22000,Active,28-04-20
+1956,Lerato,Dlamini,,Marketing,Specialist,Cape Town,25,62000,Active,17-10-24
+1957,Sipho,Khumalo, john.smith@gmail.com ,Customer Support,Coordinator,Cape Town,-1,62000,Active,16-03-18
+1958,Sipho,Smith,thabo.dlamini@gmail.com,Operations,Coordinator,Johannesburg,41,22000,Resigned,18-09-18
+1959,Sipho,Khumalo,thabo.dlamini@gmail.com,Operations,Specialist,Cape Town,-1,62000,On Leave,22-11-20
+1960, john ,Dlamini,,Marketing,Analyst,Johannesburg,-1,62000,On Leave,03-03-19
+1961,SARAH,Jones,thabo.dlamini@gmail.com,Operations,Analyst,Cape Town,55,15000,Active,22-02-19
+1962,Nomsa, mokoena , john.smith@gmail.com ,Customer Support,Administrator,Bloemfontein,34,15000,Active,21-01-22
+1963,Sipho,Mokoena,thabo.dlamini@gmail.com,IT,Administrator,Pretoria,-1,15000,Active,29-01-22
+1964,Sipho,Khumalo,,IT,Analyst,Durban,29,48000,Resigned,25-04-23
+1965,Nomsa,Jones,,IT,Coordinator,Pretoria,34,48000,Resigned,02-10-20
+1966,SARAH, mokoena , john.smith@gmail.com ,Finance,Administrator,Cape Town,-1,15000,On Leave,16-10-23
+1967,Thabo,Dlamini, john.smith@gmail.com ,Human Resources,Administrator,Cape Town,34,15000,Resigned,21-10-23
+1968, john , mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Analyst,Bloemfontein,29,48000,Resigned,01-06-18
+1969,SARAH,Khumalo, john.smith@gmail.com ,Human Resources,Analyst,Durban,41,62000,Active,17-03-24
+1970,Lerato, mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Manager,Bloemfontein,55,48000,On Leave,13-07-22
+1971,SARAH, mokoena ,,IT,Specialist,Johannesburg,22,62000,Resigned,15-11-21
+1972, john , mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Manager,Durban,25,15000,On Leave,17-05-22
+1973,Sipho,Jones, john.smith@gmail.com ,Customer Support,Coordinator,Johannesburg,22,62000,On Leave,10-03-24
+1974,Nomsa,Khumalo,,Operations,Analyst,Johannesburg,-1,35000,Resigned,25-11-20
+1975,Sipho,Dlamini,thabo.dlamini@gmail.com,Customer Support,Analyst,Pretoria,29,62000,On Leave,10-09-23
+1976,Lerato,Khumalo,Nomsa.Khumalo@yahoo.com,Customer Support,Manager,Bloemfontein,55,62000,On Leave,22-01-18
+1977,Sipho,Khumalo, john.smith@gmail.com ,Customer Support,Manager,Cape Town,55,48000,On Leave,15-08-20
+1978,Thabo,Khumalo,,Operations,Coordinator,Durban,34,15000,Active,11-10-20
+1979,SARAH,Smith,thabo.dlamini@gmail.com,Finance,Analyst,Pretoria,25,48000,Active,10-10-22
+1980,Thabo,Khumalo,,Marketing,Manager,Bloemfontein,41,48000,Resigned,02-01-23
+1981,Lerato, mokoena ,,Marketing,Administrator,Pretoria,-1,22000,Active,21-07-24
+1982,Nomsa,Smith,,IT,Manager,Bloemfontein,22,22000,Resigned,03-09-23
+1983,Thabo, mokoena ,Nomsa.Khumalo@yahoo.com,Operations,Specialist,Johannesburg,41,48000,Active,23-04-23
+1984,Sipho,Jones, john.smith@gmail.com ,Finance,Manager,Cape Town,22,35000,Resigned,11-05-19
+1985,Sipho,Khumalo,,Finance,Coordinator,Cape Town,-1,62000,Resigned,14-03-22
+1986,Sipho,Khumalo,Nomsa.Khumalo@yahoo.com,IT,Administrator,Johannesburg,22,62000,Resigned,19-07-18
+1987,SARAH,Dlamini,,Marketing,Manager,Durban,41,48000,Resigned,04-10-18
+1988,Lerato, mokoena ,,IT,Coordinator,Bloemfontein,55,48000,Resigned,26-03-22
+1989,Nomsa, mokoena , john.smith@gmail.com ,Finance,Manager,Bloemfontein,34,48000,Active,14-01-23
+1990,Sipho,Jones,thabo.dlamini@gmail.com,Customer Support,Administrator,Durban,55,15000,Active,08-06-22
+1991,John, mokoena , john.smith@gmail.com ,Operations,Analyst,Bloemfontein,22,22000,On Leave,12-04-18
+1992,John,Dlamini,,Operations,Coordinator,Pretoria,41,15000,Active,29-01-24
+1993,Nomsa,Dlamini, john.smith@gmail.com ,IT,Coordinator,Bloemfontein,34,15000,On Leave,19-12-23
+1994,Sipho,Smith,,Finance,Administrator,Johannesburg,29,48000,Active,21-10-24
+1995,Thabo,Jones, john.smith@gmail.com ,Marketing,Specialist,Johannesburg,22,15000,On Leave,27-08-22
+1996,Sipho,Mokoena,Nomsa.Khumalo@yahoo.com,Human Resources,Analyst,Cape Town,29,48000,On Leave,20-11-19
+1997,Thabo,Jones, john.smith@gmail.com ,IT,Analyst,Johannesburg,29,48000,Active,25-11-19
+1998,Nomsa,Smith, john.smith@gmail.com ,Human Resources,Administrator,Johannesburg,22,22000,Active,03-08-21
+1999,John,Mokoena,,Operations,Manager,Pretoria,22,35000,Active,11-09-24
+2000,Lerato,Jones,,Finance,Administrator,Johannesburg,34,22000,Active,27-07-21
+1121,Nomsa, mokoena ,thabo.dlamini@gmail.com,Marketing,Analyst,Johannesburg,34,22000,On Leave,23-03-21
+1351,Lerato,Smith,thabo.dlamini@gmail.com,Customer Support,Analyst,Pretoria,41,35000,On Leave,24-08-22
+1701,Lerato,Jones,,Marketing,Coordinator,Bloemfontein,25,35000,Active,23-04-24
